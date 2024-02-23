@@ -8,4 +8,8 @@ categories: sample-posts external-services
 disqus_comments: true
 related_posts: false
 ---
+<<<<<<< HEAD
+=======
+
+>>>>>>> 73bfa517 (Initial commit)
 This post shows how to add DISQUS comments.

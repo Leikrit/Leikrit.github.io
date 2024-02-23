@@ -50,7 +50,11 @@ table.table a {
 
 .table-dark {
   background-color: transparent;
+<<<<<<< HEAD
   &.table-bordered{
+=======
+  &.table-bordered {
+>>>>>>> 73bfa517 (Initial commit)
     border: 1px solid var(--global-divider-color) !important;
   }
 }
@@ -80,7 +84,16 @@ blockquote {
       color: var(--global-tip-block-text);
     }
 
+<<<<<<< HEAD
     h1, h2, h3, h4, h5, h6 {
+=======
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+>>>>>>> 73bfa517 (Initial commit)
       color: var(--global-tip-block-title);
     }
   }
@@ -93,7 +106,16 @@ blockquote {
       color: var(--global-warning-block-text);
     }
 
+<<<<<<< HEAD
     h1, h2, h3, h4, h5, h6 {
+=======
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+>>>>>>> 73bfa517 (Initial commit)
       color: var(--global-warning-block-title);
     }
   }
@@ -106,12 +128,40 @@ blockquote {
       color: var(--global-danger-block-text);
     }
 
+<<<<<<< HEAD
     h1, h2, h3, h4, h5, h6 {
+=======
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+>>>>>>> 73bfa517 (Initial commit)
       color: var(--global-danger-block-title);
     }
   }
 }
 
+<<<<<<< HEAD
+=======
+// Checklist
+
+ul.task-list {
+  list-style-type: none; /* Remove bullets from all levels */
+}
+
+ul.task-list > li ul {
+  /* Nested lists within .task-list */
+  padding-inline-start: 1.5rem;
+}
+
+ul.task-list input[type="checkbox"] {
+  margin: 0.275rem 0.5rem 0.5rem -1rem;
+  vertical-align: middle;
+}
+
+>>>>>>> 73bfa517 (Initial commit)
 // Math
 
 .equation {
@@ -210,7 +260,10 @@ blockquote {
   }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 73bfa517 (Initial commit)
 // Navbar customization
 
 .navbar {
@@ -265,7 +318,11 @@ blockquote {
     }
   }
 
+<<<<<<< HEAD
   .navbar-nav .nav-item.active>.nav-link {
+=======
+  .navbar-nav .nav-item.active > .nav-link {
+>>>>>>> 73bfa517 (Initial commit)
     background-color: inherit;
     font-weight: bolder;
     color: var(--global-theme-color);
@@ -383,8 +440,13 @@ blockquote {
   width: 100%;
   height: 100%;
   overflow: auto;
+<<<<<<< HEAD
   background-color: rgb(0,0,0);
   background-color: rgba(0,0,0,0.8);
+=======
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.8);
+>>>>>>> 73bfa517 (Initial commit)
 }
 
 .wechat-modal > img {
@@ -397,13 +459,20 @@ blockquote {
   transform: translate(-50%, -50%);
 }
 
+<<<<<<< HEAD
 @media only screen and (max-width: 400px){
+=======
+@media only screen and (max-width: 400px) {
+>>>>>>> 73bfa517 (Initial commit)
   .wechat-modal > img {
     width: 100%;
   }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 73bfa517 (Initial commit)
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
@@ -413,6 +482,10 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
+<<<<<<< HEAD
+=======
+    text-align: center;
+>>>>>>> 73bfa517 (Initial commit)
   }
 
   a {
@@ -430,6 +503,13 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+<<<<<<< HEAD
+=======
+
+  .container {
+    text-align: center;
+  }
+>>>>>>> 73bfa517 (Initial commit)
 }
 
 // CV
@@ -566,7 +646,10 @@ footer.sticky-bottom {
   }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 73bfa517 (Initial commit)
 // Distill
 
 .distill {
@@ -576,7 +659,10 @@ footer.sticky-bottom {
   }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 73bfa517 (Initial commit)
 // Projects
 
 .projects {
@@ -622,7 +708,10 @@ footer.sticky-bottom {
   }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 73bfa517 (Initial commit)
 // Publications
 
 .publications {
@@ -706,12 +795,20 @@ footer.sticky-bottom {
           }
         }
 
+<<<<<<< HEAD
         >em {
+=======
+        > em {
+>>>>>>> 73bfa517 (Initial commit)
           border-bottom: 1px solid;
           font-style: normal;
         }
 
+<<<<<<< HEAD
         >span.more-authors {
+=======
+        > span.more-authors {
+>>>>>>> 73bfa517 (Initial commit)
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
@@ -825,7 +922,10 @@ code {
   padding: 3px 3px;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 73bfa517 (Initial commit)
 // Transitioning Themes
 html.transition,
 html.transition *,
@@ -922,14 +1022,23 @@ progress::-moz-progress-bar {
   .copy {
     background: var(--global-card-bg-color);
     border-color: var(--global-bg-color);
+<<<<<<< HEAD
     border-radius: .3rem;
+=======
+    border-radius: 0.3rem;
+>>>>>>> 73bfa517 (Initial commit)
     border-style: none;
     color: var(--global-text-color);
     font-size: medium;
     opacity: 0;
     position: absolute;
+<<<<<<< HEAD
     right: .2rem;
     top: .2rem;
+=======
+    right: 0.2rem;
+    top: 0.2rem;
+>>>>>>> 73bfa517 (Initial commit)
   }
 
   &:active .copy,
@@ -977,7 +1086,12 @@ progress::-moz-progress-bar {
     }
   }
 
+<<<<<<< HEAD
   .dropdown-item.active, .dropdown-item:active {
+=======
+  .dropdown-item.active,
+  .dropdown-item:active {
+>>>>>>> 73bfa517 (Initial commit)
     background-color: var(--global-hover-color);
     color: var(--global-hover-text-color) !important;
 
@@ -991,6 +1105,7 @@ progress::-moz-progress-bar {
 nav[data-toggle="toc"] {
   top: 5rem;
 
+<<<<<<< HEAD
   .nav .nav>li>a {
     font-size: .75rem;
   }
@@ -998,6 +1113,15 @@ nav[data-toggle="toc"] {
   .nav>li>a {
     color: var(--global-text-color);
     font-size: .75rem;
+=======
+  .nav .nav > li > a {
+    font-size: 0.75rem;
+  }
+
+  .nav > li > a {
+    color: var(--global-text-color);
+    font-size: 0.75rem;
+>>>>>>> 73bfa517 (Initial commit)
 
     &:hover {
       color: var(--global-hover-color);
@@ -1008,7 +1132,11 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
+<<<<<<< HEAD
     font-size: .75rem;
+=======
+    font-size: 0.75rem;
+>>>>>>> 73bfa517 (Initial commit)
 
     &:hover {
       color: var(--global-hover-color);
@@ -1071,3 +1199,22 @@ nav[data-toggle="toc"] {
 #toc-sidebar {
   z-index: 1;
 }
+<<<<<<< HEAD
+=======
+
+.echarts {
+  height: 400px;
+  width: 100%;
+}
+
+.map {
+  height: 400px;
+  width: 100%;
+}
+
+swiper-container {
+  --swiper-navigation-color: var(--global-theme-color);
+  --swiper-pagination-color: var(--global-theme-color);
+  --swiper-pagination-bullet-inactive-color: var(--global-text-color);
+}
+>>>>>>> 73bfa517 (Initial commit)

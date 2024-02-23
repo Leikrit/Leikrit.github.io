@@ -30,9 +30,13 @@
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+<<<<<<< HEAD
       "highlights": [
         "Relativity"
       ]
+=======
+      "highlights": ["Relativity"]
+>>>>>>> 73bfa517 (Initial commit)
     }
   ],
   "volunteer": [
@@ -43,10 +47,16 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+<<<<<<< HEAD
       "highlights": [
         "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"
       ]
     }],
+=======
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
+  ],
+>>>>>>> 73bfa517 (Initial commit)
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
@@ -57,9 +67,13 @@
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
+<<<<<<< HEAD
       "courses": [
         "Theory of Relativity"
       ]
+=======
+      "courses": ["Theory of Relativity"]
+>>>>>>> 73bfa517 (Initial commit)
     }
   ],
   "awards": [
@@ -144,13 +158,23 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
+<<<<<<< HEAD
         "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
+=======
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+>>>>>>> 73bfa517 (Initial commit)
       ]
     }
   ],
   "languages": [
     {
       "language": "German",
+<<<<<<< HEAD
       "fluency": "Native speaker"
       "icon":""
     },
@@ -158,6 +182,15 @@
       "language": "English",
       "fluency": "Fluent"
       "icon":""
+=======
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+>>>>>>> 73bfa517 (Initial commit)
     }
   ],
   "interests": [
@@ -165,7 +198,16 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
+<<<<<<< HEAD
         "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
+=======
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+>>>>>>> 73bfa517 (Initial commit)
       ]
     }
   ],
@@ -185,10 +227,14 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+<<<<<<< HEAD
       "highlights": [
         "Quantum Teleportation",
         "Quantum Cryptography"
       ],
+=======
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+>>>>>>> 73bfa517 (Initial commit)
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"

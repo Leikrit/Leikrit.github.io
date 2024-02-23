@@ -6,6 +6,7 @@
 // Font Awesome core compile (Web Fonts-based)
 // -------------------------
 
+<<<<<<< HEAD
 @import 'functions';
 @import 'variables';
 @import 'mixins';
@@ -19,3 +20,18 @@
 @import 'stacked';
 @import 'icons';
 @import 'screen-reader';
+=======
+@import "functions";
+@import "variables";
+@import "mixins";
+@import "core";
+@import "sizing";
+@import "fixed-width";
+@import "list";
+@import "bordered-pulled";
+@import "animated";
+@import "rotated-flipped";
+@import "stacked";
+@import "icons";
+@import "screen-reader";
+>>>>>>> 73bfa517 (Initial commit)

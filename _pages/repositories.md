@@ -10,9 +10,16 @@ nav_order: 4
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
+<<<<<<< HEAD
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
     {% include repository/repo_user.html username=user %}
+=======
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for user in site.data.repositories.github_users %}
+    {% include repository/repo_user.liquid username=user %}
+>>>>>>> 73bfa517 (Initial commit)
   {% endfor %}
 </div>
 
@@ -20,6 +27,7 @@ nav_order: 4
 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
+<<<<<<< HEAD
   {% if site.data.repositories.github_users.size > 1 %}
   <h4>{{ user }}</h4>
   {% endif %}
@@ -28,6 +36,17 @@ nav_order: 4
   </div>
 
   ---
+=======
+{% if site.data.repositories.github_users.size > 1 %}
+
+  <h4>{{ user }}</h4>
+  {% endif %}
+  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% include repository/repo_trophies.liquid username=user %}
+  </div>
+
+---
+>>>>>>> 73bfa517 (Initial commit)
 
 {% endfor %}
 {% endif %}
@@ -36,9 +55,16 @@ nav_order: 4
 ## GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
+<<<<<<< HEAD
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
     {% include repository/repo.html repository=repo %}
+=======
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.liquid repository=repo %}
+>>>>>>> 73bfa517 (Initial commit)
   {% endfor %}
 </div>
 {% endif %}

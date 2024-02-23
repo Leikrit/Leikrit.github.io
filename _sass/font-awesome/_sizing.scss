@@ -11,6 +11,10 @@
 // step-based scale (with alignment)
 @each $size, $value in $fa-sizes {
   .#{$fa-css-prefix}-#{$size} {
+<<<<<<< HEAD
      @include fa-size($value);
+=======
+    @include fa-size($value);
+>>>>>>> 73bfa517 (Initial commit)
   }
 }

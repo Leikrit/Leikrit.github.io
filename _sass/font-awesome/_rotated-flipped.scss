@@ -22,7 +22,11 @@
 }
 
 .#{$fa-css-prefix}-flip-both,
+<<<<<<< HEAD
 .#{$fa-css-prefix}-flip-horizontal.#{$fa-css-prefix}-flip-vertical { 
+=======
+.#{$fa-css-prefix}-flip-horizontal.#{$fa-css-prefix}-flip-vertical {
+>>>>>>> 73bfa517 (Initial commit)
   transform: scale(-1, -1);
 }
 
