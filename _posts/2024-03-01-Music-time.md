@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kannst Du die Musik hören?
-date: 2024-03-01 09:00:00
+date: 2024-03-01 00:00:00
 description: The first blog.
 tags: friday LLM
 categories: ideas
