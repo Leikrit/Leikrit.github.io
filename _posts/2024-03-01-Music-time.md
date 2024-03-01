@@ -2,7 +2,7 @@
 layout: post
 title: Kannst Du die Musik hören?
 date: 2024-03-01 00:00:00 +0800
-description: The first blog.
+description: The idea of LLM-based song generation.
 tags: friday LLM
 categories: ideas
 ---
