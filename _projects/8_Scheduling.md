@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Motion Detection
-description: Motion Detection Algorithms with Differential Methods
-img: assets/img/dipfront.jpg
-importance: 1
+title: Scheduling
+description: A C++ based Calendar
+img: assets/img/scheduling1.png
+importance: 2
 category: SCUT
 related_publications: false
 ---
