@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><font face="Times New Roman, sans-serif">GPA: 3.80/4.0</font></p>
-    <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
+    <p align="center"><font face="Times New Roman, sans-serif">GPA: 3.80/4.0</font></p>
+    <br />
+    <p align="center"><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
