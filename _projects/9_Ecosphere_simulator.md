@@ -66,7 +66,7 @@ There are many kinds of heuristic functions. We aimed to choose a suitable one t
 
 Eventually, we designed the heuristic function using a specific method called Octile Distance. It is a very suitable optimization model for Diagonal distance because Octile distance only allows 45 degrees' turning and straight lines. The heuristic function using Octile distance [1] is shown as below:
 
-$$h(x)=\Delta x+\Delta y+(\sqrt{2}-2)\dot min{\Delta x,\Delta y}$$
+$$h(x)=\Delta x+\Delta y+(\sqrt{2}-2)\cdot min{\Delta x,\Delta y}$$
 
 ```Shell
 * Initialize open_set and close_set;
