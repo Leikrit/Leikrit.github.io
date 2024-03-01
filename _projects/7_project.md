@@ -2,7 +2,7 @@
 layout: page
 title: Motion Detection
 description: Motion Detection Algorithms with Differential Methods
-img: assets/img/12.jpg
+img: assets/img/dipfront.jpg
 importance: 1
 category: SCUT
 related_publications: false
