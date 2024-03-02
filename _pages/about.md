@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.
+subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.<br />
 
 profile:
   align: right
@@ -67,7 +67,7 @@ Recently, I am working with <a href="https://facultyprofiles.hkust-gz.edu.cn/fac
 
 - **Large Language Model (LLM)-Readable Context Compression**, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Prof. WANG</a>. (Participating)
 
-- Completed an Autoencoder-like network for **hand-writing formula recognition**. Designed a <a href="https://leikrit.github.io/projects/7_project/">**Motion Detector**</a> by Python using differential methods. Designed a <a href="https://leikrit.github.io/projects/8_Scheduling/">**Scheduler System**</a> by Qt Creator in C++ Course Design. Designed a <a href="https://leikrit.github.io/projects/10_SIMS/">**Student Management System**</a> with the use of SQLite 3 in Database Course. Designed a <a href="https://leikrit.github.io/projects/9_Ecosphere_simulator/">**Pseudo Eco-sphere**</a> in Data Structure Course Design.
+- Completed an Autoencoder-like network for **hand-writing formula recognition**. Designed a <a href="https://leikrit.github.io/projects/7_project/">Motion Detector</a> by Python using differential methods. Designed a <a href="https://leikrit.github.io/projects/8_Scheduling/">Scheduler System</a> by Qt Creator in C++ Course Design. Designed a <a href="https://leikrit.github.io/projects/10_SIMS/">Student Management System</a> with the use of SQLite 3 in Database Course. Designed a <a href="https://leikrit.github.io/projects/9_Ecosphere_simulator/">Pseudo Eco-sphere</a> in Data Structure Course Design.
 
 <br />
 
@@ -86,3 +86,5 @@ Recently, I am working with <a href="https://facultyprofiles.hkust-gz.edu.cn/fac
 - Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling (MCM/ICM): **Honorable Mention**, 2023
 
 - Asia and Pacific Mathematical Contest in Modeling (APMCM): **Second Prize**, 2023
+
+<br />
