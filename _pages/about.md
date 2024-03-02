@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p align="center"><font face="Times New Roman, sans-serif">GPA: 3.80/4.0</font></p>
     <br />
-    <p><font face="Times New Roman, sans-serif">English level: CET-4: 589  CET-6: 559</font></p>
+    <p><font face="Times New Roman, sans-serif">CET-4: 589  CET-6: 559</font></p>
     <br />
     <p align="center"><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
 
@@ -27,7 +27,15 @@ I am currently an undergraduate student in South China University of Technology.
 
 My current research projects include Beamforming techniques, Large Language Model related works. My interests include Computer Vision, Multi-Modaling, Large Language Models.
 
+<br />
+
+<br />
+
+<br />
+
 ### Experience
+
+<br />
 
 #### University of Oxford
 
@@ -47,6 +55,8 @@ I learnt a lot about Artificial Intelligence and Machine Learning. Specifically,
 
 Recently, I am working with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Prof. Hao WANG</a>, doing researches on the topic of Large Language Models. We focused on Prompt Compression issues and Multi-modal issues.
 
+<br />
+
 ### Projects
 
 - Student Research Program (SRP)
@@ -59,19 +69,20 @@ Recently, I am working with <a href="https://facultyprofiles.hkust-gz.edu.cn/fac
 
 - Completed an Autoencoder-like network for **hand-writing formula recognition**. Designed a <a href="https://leikrit.github.io/projects/7_project/">**Motion Detector**</a> by Python using differential methods. Designed a <a href="https://leikrit.github.io/projects/8_Scheduling/">**Scheduler System**</a> by Qt Creator in C++ Course Design. Designed a <a href="https://leikrit.github.io/projects/10_SIMS/">**Student Management System**</a> with the use of SQLite 3 in Database Course. Designed a <a href="https://leikrit.github.io/projects/9_Ecosphere_simulator/">**Pseudo Eco-sphere**</a> in Data Structure Course Design.
 
+<br />
 
 ### Honors & Awards
 
-• The Dongfeng Enterprise Scholarship, 2023
+- **The Dongfeng Enterprise Scholarship**, 2023
 
-• The Second Prize Scholarship, 2022
+- **The Second Prize Scholarship**, 2022
 
-• Merit Student, 2022&2023 (Twice)
+- **Merit Student**, 2022&2023 (Twice)
 
-• Excellent League Member, 2022&2023 (Twice)
+- **Excellent League Member**, 2022&2023 (Twice)
 
-• Excellent Student Cadre, 2023
+- **Excellent Student Cadre**, 2023
 
-• Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling (MCM/ICM): Honorable Mention, 2023
+- Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling (MCM/ICM): **Honorable Mention**, 2023
 
-• Asia and Pacific Mathematical Contest in Modeling (APMCM): Second Prize, 2023
+- Asia and Pacific Mathematical Contest in Modeling (APMCM): **Second Prize**, 2023
