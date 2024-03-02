@@ -2,7 +2,7 @@
 layout: page
 title: Mountain Car Continuous
 description: A DDPG-based RL method.
-img: assets/img/DDPG1.png
+img: assets/img/DDPG1.gif
 importance: 4
 category: LMH
 related_publications: false
@@ -281,7 +281,7 @@ The final effect of DDPG is shown as below:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid loading="eager" path="assets/video/DDPG3.mp4" title="final result" class="video-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/video/DDPG3.mp4" title="final result" class="img-fluid rounded z-depth-1" autoplay=true %}
     </div>
 </div>
 <div class="caption">
