@@ -27,7 +27,7 @@ In this project, VAE is used to generate Simpsons' faces. Similar to Autoencoder
 
 #### Model Structure
 
-```Python
+```python
 class VAE(nn.Module):
     def __init__(self, zsize):
         super(VAE, self).__init__()
