@@ -281,7 +281,7 @@ The final effect of DDPG is shown as below:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/DDPG3.mp4" class="img-fluid rounded z-depth-1" autoplay=true control=true%}
+        {% include video.liquid path="assets/video/DDPG3.mp4" class="img-fluid rounded z-depth-1" autoplay=true controls=true%}
     </div>
 </div>
 <div class="caption">
