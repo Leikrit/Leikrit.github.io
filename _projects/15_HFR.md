@@ -2,7 +2,7 @@
 layout: page
 title: Handwriting Formula Recognition
 description: An image-to-latex inspired framework, transforming handwriting formula images into LaTeX-based context.
-img: assets/img/HFR1.jpg
+img: assets/img/HFRfront.jpg
 importance: 1
 category: Top works
 related_publications: false
