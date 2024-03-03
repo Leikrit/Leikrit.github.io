@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.<br />
+subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.<br /><br />
 
 profile:
   align: right
@@ -59,6 +59,8 @@ Recently, I am working with <a href="https://facultyprofiles.hkust-gz.edu.cn/fac
 
 <br />
 
+---
+
 ### Projects
 
 - Student Research Program (SRP)
@@ -72,6 +74,8 @@ Recently, I am working with <a href="https://facultyprofiles.hkust-gz.edu.cn/fac
 - Completed an Autoencoder-like network for <a href="https://leikrit.github.io/projects/15_HFR/">Hand-writing Formula Recognition</a>. Designed a <a href="https://leikrit.github.io/projects/7_project/">Motion Detector</a> by Python using differential methods. Designed a <a href="https://leikrit.github.io/projects/8_Scheduling/">Scheduler System</a> by Qt Creator in C++ Course Design. Designed a <a href="https://leikrit.github.io/projects/10_SIMS/">Student Management System</a> with the use of SQLite 3 in Database Course. Designed a <a href="https://leikrit.github.io/projects/9_Ecosphere_simulator/">Pseudo Eco-sphere</a> in Data Structure Course Design.
 
 <br />
+
+---
 
 ### Honors & Awards
 
