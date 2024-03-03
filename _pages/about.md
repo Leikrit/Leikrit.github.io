@@ -67,7 +67,7 @@ Recently, I am working with <a href="https://facultyprofiles.hkust-gz.edu.cn/fac
 
 - **Large Language Model (LLM)-Readable Context Compression**, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Prof. WANG</a>. (Participating)
 
-- Completed an Autoencoder-like network for <a href="https://github.com/Leikrit/Handwriting-formula-recognition">hand-writing formula recognition</a>. Designed a <a href="https://leikrit.github.io/projects/7_project/">Motion Detector</a> by Python using differential methods. Designed a <a href="https://leikrit.github.io/projects/8_Scheduling/">Scheduler System</a> by Qt Creator in C++ Course Design. Designed a <a href="https://leikrit.github.io/projects/10_SIMS/">Student Management System</a> with the use of SQLite 3 in Database Course. Designed a <a href="https://leikrit.github.io/projects/9_Ecosphere_simulator/">Pseudo Eco-sphere</a> in Data Structure Course Design.
+- Completed an Autoencoder-like network for <a href="https://leikrit.github.io/projects/15_HFR/">Hand-writing Formula Recognition</a>. Designed a <a href="https://leikrit.github.io/projects/7_project/">Motion Detector</a> by Python using differential methods. Designed a <a href="https://leikrit.github.io/projects/8_Scheduling/">Scheduler System</a> by Qt Creator in C++ Course Design. Designed a <a href="https://leikrit.github.io/projects/10_SIMS/">Student Management System</a> with the use of SQLite 3 in Database Course. Designed a <a href="https://leikrit.github.io/projects/9_Ecosphere_simulator/">Pseudo Eco-sphere</a> in Data Structure Course Design.
 
 <br />
 
