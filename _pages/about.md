@@ -33,6 +33,8 @@ My current research projects include Beamforming techniques, Large Language Mode
 
 <br />
 
+---
+
 ### Experience
 
 <br />
@@ -88,3 +90,5 @@ Recently, I am working with <a href="https://facultyprofiles.hkust-gz.edu.cn/fac
 - Asia and Pacific Mathematical Contest in Modeling (APMCM): **Second Prize**, 2023
 
 <br />
+
+---
