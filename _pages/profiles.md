@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: people
 description: Collaborators of mine.
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
@@ -14,5 +14,5 @@ profiles:
     content: about_jiang.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Guangzhou, China</p>
+      <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
 ---
