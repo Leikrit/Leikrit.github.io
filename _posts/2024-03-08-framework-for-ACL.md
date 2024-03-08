@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 120%
-date: 2024-03-06 11:30:00 +0800
-description: What's after the finish line?
-tags: friday
+title: ACL script
+date: 2024-03-08 15:35:00 +0800
+description: 10 days left
+tags: friday LLM
 categories: friday
 ---
 
