@@ -148,11 +148,11 @@ Pure | 19 | Pure | Pure | 5 | 92.32 | 77.76 | 84.88 | 84.99
 Mixed | 15 | Mixed | Mixed | 3 | 90.39 | 80.65 | 73.13 | 81.39
 Mixed | 21 | Mixed | Mixed | 5 | **94.73** | **88.34** | 83.91 | **88.99**
 Mixed | 21 | Mixed | Pure | 5 | 93.90 | 82.46 | 87.21 | 87.86
-Mixed | 23 | Pure (Based on 21 Mixed) | Pure | 93.16 | 77.11 | 85.99 | 85.42
-Mixed | 25 | Pure (Based on 21 Mixed) | Pure | 93.20 | 77.05 | 85.95 | 85.40
-Mixed | 27 | Pure (Based on 21 Mixed) | Pure | 93.20 | 78.23 | 86.08 | 85.84
-Mixed | 29 | Pure (Based on 21 Mixed) | Pure | 92.95 | 79.97 | **87.44** | 87.12
-Mixed | 29 | Pure (Based on 21 Mixed) | Mixed | 94.65 | 87.41 | 83.64 | 88.57
+Mixed | 23 | Pure (Based on 21 Mixed) | Pure | 5 | 93.16 | 77.11 | 85.99 | 85.42
+Mixed | 25 | Pure (Based on 21 Mixed) | Pure | 5 | 93.20 | 77.05 | 85.95 | 85.40
+Mixed | 27 | Pure (Based on 21 Mixed) | Pure | 5 | 93.20 | 78.23 | 86.08 | 85.84
+Mixed | 29 | Pure (Based on 21 Mixed) | Pure | 5 | 92.95 | 79.97 | **87.44** | 87.12
+Mixed | 29 | Pure (Based on 21 Mixed) | Mixed | 5 | 94.65 | 87.41 | 83.64 | 88.57
 
 From the results in the table above, we find that the number of decoder layers has a great impact on the model recognition accuracy. Because of the wide variety and length of the identification formula, a deeper decoder can improve the recognition accuracy. At the same time, we observed the phenomenon of overfitting and underfitting in the model. In the pure mathematical expression recognition model, the recognition accuracy of the model with 15 epochs is higher than that with 19 epochs, and the model overfits on this data set. In the mixed recognition model of text and mathematical expressions, we tried to replace the data set for further training. For example, the model with 23 to 29 epoches showed a basinlike fluctuation in model recognition accuracy, and the recognition rate of the model with 29 epoches decreased compared with that with 21 epoches. We believe that the model has not yet learned the features of the new data set. The recognition rate decreases.
 
