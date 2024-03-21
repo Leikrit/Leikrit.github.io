@@ -10,6 +10,6 @@ Let's see what will be going on in June.
 
 <div align=center>
   
-![PCToolkit logo](assets/img/logo.png)
+![PCToolkit logo](../assets/img/logo.png)
 
 </div>
