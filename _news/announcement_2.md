@@ -8,8 +8,11 @@ related_posts: false
 
 Let's see what will be going on in June.
 
-<div align=center>
-  
-![PCToolkit logo](../assets/img/logo.png)
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logo.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    PCToolkit.
 </div>
