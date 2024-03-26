@@ -22,9 +22,9 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
-$space-color: #0c2d57 !default;
-$space-color-dark: #0f3460 !default;
-$wine-color: #850e35 !default;
+$space-color: #0c2d57;
+$space-color-dark: #0f3460;
+$wine-color: #850e35;
 
 $nord-color: #7c81ad !default;
 
@@ -38,7 +38,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: rgba($wine-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
