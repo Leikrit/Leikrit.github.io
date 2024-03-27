@@ -27,7 +27,7 @@ I am currently an undergraduate student in South China University of Technology.
 
 My current research projects include Beamforming techniques, Large Language Model related works. My interests include Computer Vision, Multi-Modaling, Large Language Models.
 
-<br />
+Now, my latest paper is available on ArXiv. Check out <a href='https://arxiv.org/abs/2403.17411'>PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models</a>.
 
 <br />
 
