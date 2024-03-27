@@ -27,11 +27,11 @@ I am currently an undergraduate student in South China University of Technology.
 
 My current research projects include Beamforming techniques, Large Language Model related works. My interests include Computer Vision, Multi-Modaling, Large Language Models.
 
-Now, my latest paper is available on ArXiv. Check out <a href='https://arxiv.org/abs/2403.17411'>PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models</a>.
+Currently, my latest paper is available on ArXiv. Check out <a href='https://arxiv.org/abs/2403.17411'>PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models</a>.
 
-<br />
+<a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof. XU</a> is my tutor for Bachelor's degree and will be my tutor during Ph.D. 
 
-<br />
+**Acknowledgement** Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/page.htm'>Prof. YU</a> who supported me when I firstly started my research. 
 
 ---
 
@@ -47,7 +47,7 @@ Now, my latest paper is available on ArXiv. Check out <a href='https://arxiv.org
 
 **Oxford Grade: 83    Letter Grade: A+**
 
-I learnt a lot about Artificial Intelligence and Machine Learning. Specifically, I learnt Generative Models including Auto Regression, Auto Encoder, Variation Auto Encoder, Generative Adversarial Network and Diffusion Model; Reinforcement Learning including DQN, Actor and Critic and DDPG methods; Graph Neural Network including GCN. <a href="https://cemse.kaust.edu.sa/ai/people/person/naeemullah-khan">My tutor</a> gave me a highly recommend.
+I learnt a lot about Artificial Intelligence and Machine Learning. Specifically, I learnt Generative Models including Auto Regression, Auto Encoder, Variation Auto Encoder, Generative Adversarial Network and Diffusion Model; Reinforcement Learning including DQN, Actor and Critic and DDPG methods; Graph Neural Network including GCN. My tutor <a href="https://cemse.kaust.edu.sa/ai/people/person/naeemullah-khan">Prof. Khan</a> gave me a highly recommend.
 
 #### Hong Kong University of Science and Technology (Guangzhou)
 
