@@ -23,15 +23,13 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I'm Jerry LI, welcome to my personal website. In here, you can discover something about me.
 
-I am currently an undergraduate student in South China University of Technology. I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great honor, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH.
+I am currently an undergraduate student in South China University of Technology. I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great pleasure, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH.
 
 My current research projects include Beamforming techniques, Large Language Model related works. My interests include Computer Vision, Multi-Modaling, Large Language Models.
 
 Currently, my latest paper is available on ArXiv. Check out <a href='https://arxiv.org/abs/2403.17411'>PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models</a>.
 
 <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof. XU</a> is my tutor for Bachelor's degree and will be my tutor during Ph.D. 
-
-**Acknowledgement** Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/page.htm'>Prof. YU</a> who supported me when I firstly started my research. 
 
 ---
 
@@ -96,3 +94,12 @@ Recently, I am working with <a href="https://facultyprofiles.hkust-gz.edu.cn/fac
 <br />
 
 ---
+
+### Acknowledgement
+
+Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/page.htm'>Prof. YU</a> who supported me when I firstly started my research. 
+
+<br />
+
+---
+
