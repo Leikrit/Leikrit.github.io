@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: There is nothing here yet.
+description: Natural Language Process, Computer Vision and Multi-modal.
 nav: true
 nav_order: 2
 ---
