@@ -18,3 +18,4 @@ related_posts: false
 My new publication <u><a href='https://arxiv.org/abs/2403.17411'>PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models</a></u> is now available on ArXiv.
 
 Don't forget to check out our <a href='https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression'>GitHub repository</a> and star it.
+
