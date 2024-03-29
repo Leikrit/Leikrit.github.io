@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.<br /><a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>. Information Hub. Artificial Intelligence Thrust.<br />
+subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.<br /><a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>. Information Hub. Artificial Intelligence Thrust.
 
 profile:
   align: right
