@@ -7,7 +7,4 @@ dropdown: true
 children:
   - title: people
     permalink: /people/
-  - title: divider
-  - title: repository
-    permalink: /repository/
 ---
