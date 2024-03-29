@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.<br /><a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>. Information Hub. Artificial Intelligence Thrust.
+subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.<br /><a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>. Information Hub. Artificial Intelligence Thrust.<br />
 
 profile:
   align: right
@@ -20,10 +20,6 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
----
-
-<br />
 
 Hi there! I'm Jerry J. Y. LI, welcome to my personal website. In here, you can discover something about me.
 
