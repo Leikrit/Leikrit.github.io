@@ -17,7 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm Jerry LI, welcome to my personal website. In here, you can discover something about me.
+---
+
+<br />
+
+Hi there! I'm Jerry J. Y. LI, welcome to my personal website. In here, you can discover something about me.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
