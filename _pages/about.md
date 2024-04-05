@@ -6,7 +6,7 @@ subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Techn
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: leikritHK.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p align="center"><font face="Times New Roman, sans-serif">GPA: 3.80/4.0</font></p>
