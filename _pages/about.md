@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.<br /><a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>. Information Hub. Artificial Intelligence Thrust.<br />
+subtitle: MMLab,<br /><a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.<br />
 
 profile:
   align: right
@@ -25,9 +25,9 @@ Hi there! I'm Jerry J. Y. LI, welcome to my personal website. In here, you can d
 
 I am currently an undergraduate student in South China University of Technology. I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great pleasure, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH.
 
-Now I am working as an intern with <a href='https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang'>Prof. WANG</a> at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>.
+I worked as an intern with <a href='https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang'>Prof. WANG</a> at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>.
 
-My current research projects include Beamforming techniques, Large Language Model related works. My interests include Computer Vision, Multi-Modaling, Large Language Models.
+My current research projects include Meta Learning related works. My interests include Computer Vision, Multi-Modaling, Large Language Models and Meta Learning.
 
 Currently, my latest paper is available on ArXiv. Check out <a href='https://arxiv.org/abs/2403.17411'>PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models</a>.
 
@@ -49,11 +49,16 @@ I learnt a lot about Artificial Intelligence and Machine Learning. Specifically,
 
 #### Hong Kong University of Science and Technology (Guangzhou)
 
-- 2024.2.1 - present
+- 2024.2.1 - 2024.6.7
 
 **Internship in Artificial Intellengce Thrust, Information Hub**
 
-Recently, I am working with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Prof. Hao WANG</a>, doing researches on the topic of Large Language Models. We are focusing on Prompt Compression issues and Multi-modal issues.
+I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Prof. Hao WANG</a>, doing researches on the topic of Large Language Models. We focused on Prompt Compression things and Multi-modal things.
+
+#### Nanyang Technological University
+
+- 2024.7.21 - 2024.7.26
+
 
 <br />
 
