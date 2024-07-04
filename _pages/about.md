@@ -39,7 +39,7 @@ Currently, my latest paper is available on ArXiv. Check out <a href='https://arx
 
 #### University of Oxford
 
-<img align="right" src="https://th.bing.com/th?id=OSK.8b3e69c73dccc0632de7058c13f85e53&w=102&h=102&c=7&o=6&dpr=1.5&pid=SANGAM" width="90%">
+<img align="right" src="https://th.bing.com/th?id=OSK.8b3e69c73dccc0632de7058c13f85e53&w=102&h=102&c=7&o=6&dpr=1.5&pid=SANGAM" width="20%">
 
 - 2023.7.17 - 2023.8.4
 
@@ -61,7 +61,7 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 
 #### National University of Singapore
 
-<img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="50%">
+<img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="20%">
 
 - 2024.7
 
