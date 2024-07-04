@@ -39,7 +39,7 @@ Currently, my latest paper is available on ArXiv. Check out <a href='https://arx
 
 #### University of Oxford
 
-<img align="right" src="https://th.bing.com/th?id=OSK.8b3e69c73dccc0632de7058c13f85e53&w=102&h=102&c=7&o=6&dpr=1.5&pid=SANGAM">
+<img align="right" src="https://th.bing.com/th?id=OSK.8b3e69c73dccc0632de7058c13f85e53&w=102&h=102&c=7&o=6&dpr=1.5&pid=SANGAM" width="90%">
 
 - 2023.7.17 - 2023.8.4
 
@@ -51,7 +51,7 @@ I learnt a lot about Artificial Intelligence and Machine Learning. Specifically,
 
 #### Hong Kong University of Science and Technology (Guangzhou)
 
-<img align="right" src="https://th.bing.com/th/id/R.80d6da32d2290b2887423f6bf54f5cf5?rik=TLLIU2YcOasHTQ&riu=http%3a%2f%2fweihan.people.ust.hk%2fimages%2fHKUST(GZ)_Logo.png&ehk=os0Dp8QnH4Q3C2okh7tW8%2bl2BYroNqLdgw2NvbvOnxQ%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" src="https://th.bing.com/th/id/R.80d6da32d2290b2887423f6bf54f5cf5?rik=TLLIU2YcOasHTQ&riu=http%3a%2f%2fweihan.people.ust.hk%2fimages%2fHKUST(GZ)_Logo.png&ehk=os0Dp8QnH4Q3C2okh7tW8%2bl2BYroNqLdgw2NvbvOnxQ%3d&risl=&pid=ImgRaw&r=0" width="20%">
 
 - 2024.2.1 - 2024.6.7
 
@@ -61,7 +61,7 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 
 #### National University of Singapore
 
-<img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png">
+<img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="50%">
 
 - 2024.7
 
