@@ -49,6 +49,8 @@ Currently, my latest paper is available on ArXiv. Check out <a href='https://arx
 
 I learnt a lot about Artificial Intelligence and Machine Learning. Specifically, I learnt Generative Models including Auto Regression, Auto Encoder, Variation Auto Encoder, Generative Adversarial Network and Diffusion Model; Reinforcement Learning including DQN, Actor and Critic and DDPG methods; Graph Neural Network including GCN. My tutor <a href="https://cemse.kaust.edu.sa/ai/people/person/naeemullah-khan">Prof. Khan</a> spoke very well of me.
 
+<br />
+
 #### Hong Kong University of Science and Technology (Guangzhou)
 
 <img align="right" src="https://th.bing.com/th/id/R.80d6da32d2290b2887423f6bf54f5cf5?rik=TLLIU2YcOasHTQ&riu=http%3a%2f%2fweihan.people.ust.hk%2fimages%2fHKUST(GZ)_Logo.png&ehk=os0Dp8QnH4Q3C2okh7tW8%2bl2BYroNqLdgw2NvbvOnxQ%3d&risl=&pid=ImgRaw&r=0" width="20%">
@@ -59,6 +61,8 @@ I learnt a lot about Artificial Intelligence and Machine Learning. Specifically,
 
 I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Prof. Hao WANG</a>, doing researches on the topic of Large Language Models. We focused on Prompt Compression things and Multi-modal things.
 
+<br />
+
 #### National University of Singapore
 
 <img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="20%">
@@ -66,6 +70,7 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 - 2024.7
 
 
+<br />
 <br />
 
 ---
