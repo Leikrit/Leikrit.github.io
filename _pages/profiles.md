@@ -23,3 +23,10 @@ profiles:
     more_info: >
       <p><font face="Times New Roman, sans-serif">Shenzhen, China</font></p>
 ---
+  - align: right
+    image: lzw.jpg
+    content: about_seton.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
+---
