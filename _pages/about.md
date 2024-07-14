@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: MMLab,<br /><a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>.<br />
+subtitle: Multi-Media Laboratory,<br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <br />
 
 profile:
   align: right
   image: leikritHK.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p align="center"><font face="Times New Roman, sans-serif">GPA: 3.80/4.0</font></p>
+    <p align="center"><font face="Times New Roman, sans-serif">GPA: 3.81/4.0</font></p>
     <br />
     <p><font face="Times New Roman, sans-serif">CET-4: 589  CET-6: 559</font></p>
     <br />
@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm Jerry J. Y. LI, welcome to my personal website. In here, you can discover something about me.
+Hi there! I'm Jinyi (Jerry) LI, welcome to my personal website. In here, you can discover something about me.
 
 I am currently an undergraduate student in South China University of Technology. I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great pleasure, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH.
 
@@ -29,7 +29,7 @@ I worked as an intern with <a href='https://facultyprofiles.hkust-gz.edu.cn/facu
 
 My current research projects include Meta Learning related works. My interests include Computer Vision, Multi-Modaling, Large Language Models and Meta Learning.
 
-Currently, my latest paper is available on ArXiv. Check out <a href='https://arxiv.org/abs/2403.17411'>PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models</a>.
+My latest paper is available on ArXiv. Check out <a href='https://arxiv.org/abs/2403.17411'>PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models</a>.
 
 ---
 
@@ -63,6 +63,7 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 
 <br />
 
+<!--
 #### National University of Singapore
 
 <img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="20%">
@@ -71,6 +72,7 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 
 
 <br />
+-->
 <br />
 
 ---
