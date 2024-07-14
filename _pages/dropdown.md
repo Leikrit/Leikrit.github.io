@@ -5,6 +5,6 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: people
+  - title: connections
     permalink: /people/
 ---
