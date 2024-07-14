@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
-  - align: right
+  - align: left
     image: cooper.jpg
     content: about_cooper.md
     image_circular: false # crops the image to make it circular
@@ -24,6 +24,12 @@ profiles:
   - align: right
     image: lzw.png
     content: about_seton.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
+  - align: left
+    image: brick.jpg
+    content: about_brick.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
