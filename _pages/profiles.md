@@ -1,7 +1,7 @@
 ---
-layout: connections
+layout: people
 permalink: /people/
-title: connections
+title: Connections
 description: Connections of mine.
 nav: false
 nav_order: 7
