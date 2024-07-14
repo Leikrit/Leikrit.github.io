@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: Collaborators of mine.
+title: connections
+description: Connections of mine.
 nav: false
 nav_order: 7
 
@@ -15,4 +15,11 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
+---
+  - align: right
+    image: cooper.jpg
+    content: about_cooper.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><font face="Times New Roman, sans-serif">Shenzhen, China</font></p>
 ---
