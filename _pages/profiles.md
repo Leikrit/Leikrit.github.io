@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: connections
 permalink: /people/
 title: connections
 description: Connections of mine.
@@ -15,14 +15,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
----
+
   - align: right
     image: cooper.jpg
     content: about_cooper.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><font face="Times New Roman, sans-serif">Shenzhen, China</font></p>
----
+
   - align: right
     image: lzw.png
     content: about_seton.md
