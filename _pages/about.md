@@ -6,7 +6,7 @@ subtitle: Multi-Media Laboratory,<br /><a href='http://www2.scut.edu.cn/cs/'>Sch
 
 profile:
   align: right
-  image: jerry.png
+  image: USAjerry.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p align="center"><font face="Times New Roman, sans-serif">GPA: 3.81/4.0</font></p>
