@@ -9,12 +9,13 @@ profile:
   image: USAjerry.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  
+    <!--
     <p align="center"><font face="Times New Roman, sans-serif">GPA: 3.81/4.0</font></p>
     <br />
     <p><font face="Times New Roman, sans-serif">CET-4: 589  CET-6: 559</font></p>
     <br />
     <p align="center"><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
+    -->
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
