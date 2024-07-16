@@ -6,7 +6,7 @@ subtitle: <a href='https://www.scut.edu.cn/new/'>South China University of Techn
 
 profile:
   align: right
-  image: cropped.jpg
+  image: jerry.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Guangzhou, Guangdong, China</p>
