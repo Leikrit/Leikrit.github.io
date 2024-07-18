@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://scut-mm.github.io/index.html">Multi-Media Laboratory</a>,<br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <br />
+subtitle: <a href="https://scut-mm.github.io/index.html">SCUT Multimedia Technology and Image Processing Research Laboratory (MMLab)</a>,<br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <br />
 
 profile:
   align: right
