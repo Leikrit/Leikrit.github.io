@@ -67,29 +67,41 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 
 <br />
 
-<!--
-#### National University of Singapore
+#### Singapore Management University
+<img align="right" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="20%">
 
+#### National University of Singapore
 <img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="20%">
 
-- 2024.7
+<img align="right" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="20%">
 
+#### Nanyang Technological University
+<img align="right" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="20%">
 
-<br />
--->
+#### Agency for Science, Technology and Research (A*Star)
+<img align="right" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="20%">
+
+- 2024.07
+
+**Visiting & Communicating**
+
+During the summer 2024, I went to Singapore for a short academic visiting. I stayed at <a href="https://www.smu.edu.sg/">Singapore Management University (SMU)</a>, <a href="https://nus.edu.sg/">National University of Singapore (NUS)</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University (NTU)</a> and <a href="https://www.a-star.edu.sg/">Agency for Science, Technology and Research (A*Star)</a>. The academic communications covered fields including Computer Vision, Natural Language Processing, Augmented Reality, Virtual Reality, 3D Point Cloud, Causal Inference, Video Segmentation, Brain Science, Silence Communication, Imitation Learning, etc. I gave a speech about my personal academic experience at NExT++ Laboratory.
+
 <br />
 
 ---
 
 ### Projects
 
+- Meta Learning Based Research, supervised by Prof. LI. (2024 ~ current)
+
+- **Large Language Model (LLM)-Readable Context Compression**, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Prof. WANG</a>. (2024)
+
+- **Gesture Recognition Based on Cross-modal Supervision of Wi-Fi Beamforming Technique**. (Team Leader, 2023 ~ 2024)
+
 - Student Research Program (SRP)
 
-**Surface Defect Detection of Industrial Products based on Computer Vision**, supervised by <a href="http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/page.htm">Prof. YU</a>. (Participating)
-
-- **Gesture Recognition Based on Cross-modal Supervision of Wi-Fi Beamforming Technique**. (Team Leader, Participating)
-
-- **Large Language Model (LLM)-Readable Context Compression**, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Prof. WANG</a>. (Participating)
+**Surface Defect Detection of Industrial Products based on Computer Vision**, supervised by <a href="http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/page.htm">Prof. YU</a>. (Secondary Team Leader, 2022 ~ 2023)
 
 - Completed an Autoencoder-like network for <a href="https://leikrit.github.io/projects/15_HFR/">Hand-writing Formula Recognition</a>. Designed a <a href="https://leikrit.github.io/projects/7_project/">Motion Detector</a> by Python using differential methods. Designed a <a href="https://leikrit.github.io/projects/8_Scheduling/">Scheduler System</a> by Qt Creator in C++ Course Design. Designed a <a href="https://leikrit.github.io/projects/10_SIMS/">Student Management System</a> with the use of SQLite 3 in Database Course. Designed a <a href="https://leikrit.github.io/projects/9_Ecosphere_simulator/">Pseudo Eco-sphere</a> in Data Structure Course Design. More projects are shown in <a href="https://leikrit.github.io/projects/">project</a> page.
 
