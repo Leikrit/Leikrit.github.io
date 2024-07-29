@@ -67,13 +67,13 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 
 <br />
 
-#### Singapore Management University
-
 <img align="right" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="20%">
 
-#### National University of Singapore
+#### Singapore Management University
 
 <img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="20%">  
+
+#### National University of Singapore
 
 <img align="right" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="20%">
 
