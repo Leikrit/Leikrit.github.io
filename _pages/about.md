@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://scut-mm.github.io/index.html">SCUT Multimedia Technology and Image Processing Research Laboratory (MMLab)</a>,<br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <img align="right" src="https://www.scut.edu.cn/_upload/article/images/93/f1/da8bef494e929b2303b75fcae24a/3b403882-85d9-4143-9480-b0b97a85f8c3.png" width="20%"><br /><img align="center" src="http://jw.scut.edu.cn/zhinan/v2Static/img/header/logo_right.jpg" width="90%">
+subtitle: <a href="https://scut-mm.github.io/index.html">SCUT Multimedia Technology and Image Processing Research Laboratory (MMLab)</a>, <img align="right" src="https://www.scut.edu.cn/_upload/article/images/93/f1/da8bef494e929b2303b75fcae24a/3b403882-85d9-4143-9480-b0b97a85f8c3.png" width="20%"><br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <br /><img align="center" src="http://jw.scut.edu.cn/zhinan/v2Static/img/header/logo_right.jpg" width="90%">
 
 profile:
   align: right
@@ -75,8 +75,8 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 
 #### Agency for Science, Technology and Research (A*Star)
 
-<img align="right" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="20%"><img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="20%">
-<img align="right" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="20%"><img align="right" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="20%"><img align="right" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="20%">
+<img align="right" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="18%">  <img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="18%">  
+<img align="right" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="18%">  <img align="right" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="18%">  <img align="right" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="18%">
 
 - 2024.07
 
