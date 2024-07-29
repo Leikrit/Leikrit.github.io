@@ -69,14 +69,21 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 
 #### Singapore Management University
 
+<img align="right" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="20%">
+
 #### National University of Singapore
+
+<img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="20%">  
+
+<img align="right" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="20%">
 
 #### Nanyang Technological University
 
+<img align="right" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="20%">
+
 #### Agency for Science, Technology and Research (A*Star)
 
-<img align="right" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="18%">  <img align="right" src="https://nus.edu.sg/images/default-source/base/logo.png" width="18%">  
-<img align="right" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="18%">  <img align="right" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="18%">  <img align="right" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="18%">
+<img align="right" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="20%">
 
 - 2024.07
 
