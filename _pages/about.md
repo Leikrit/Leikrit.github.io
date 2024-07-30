@@ -2,7 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://scut-mm.github.io/index.html">SCUT Multimedia Technology and Image Processing Research Laboratory (MMLab)</a>, <img align="right" src="https://www.scut.edu.cn/_upload/article/images/93/f1/da8bef494e929b2303b75fcae24a/3b403882-85d9-4143-9480-b0b97a85f8c3.png" width="20%"><br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <br /><img align="middle" src="http://jw.scut.edu.cn/zhinan/v2Static/img/header/logo_right.jpg" width="90%">
+subtitle: <a href="https://scut-mm.github.io/index.html">SCUT Multimedia Technology and Image Processing Research Laboratory (MMLab)</a>, <img align="right" src="https://www.scut.edu.cn/_upload/article/images/93/f1/da8bef494e929b2303b75fcae24a/3b403882-85d9-4143-9480-b0b97a85f8c3.png" width="20%"><br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <br />
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/scut.jpg" title="scut" class="img-fluid rounded z-depth-1" zoomable=false %}
+    </div>
+</div>
 
 profile:
   align: right
@@ -22,7 +27,9 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
+<!--
+<img align="middle" src="http://jw.scut.edu.cn/zhinan/v2Static/img/header/logo_right.jpg" width="100%">
+-->
 Hi there! I'm Jinyi (Jerry) LI, welcome to my personal website. In here, you can discover something about me.
 
 I am currently an undergraduate student in South China University of Technology. I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great pleasure, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH.
@@ -67,7 +74,7 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 
 <br />
 
-<img align="middle" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="18%"> <img align="middle" src="https://nus.edu.sg/images/default-source/base/logo.png" width="18%">  <img align="middle" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="18%">  <img align="middle" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="18%">  <img align="middle" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="18%">
+<img align="middle" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="18%">   <img align="middle" src="https://nus.edu.sg/images/default-source/base/logo.png" width="18%">    <img align="middle" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="18%">    <img align="middle" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="18%">    <img align="middle" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="18%">
 
 #### Singapore Management University
 
