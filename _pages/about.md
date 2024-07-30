@@ -2,12 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://scut-mm.github.io/index.html">SCUT Multimedia Technology and Image Processing Research Laboratory (MMLab)</a>, <img align="right" src="https://www.scut.edu.cn/_upload/article/images/93/f1/da8bef494e929b2303b75fcae24a/3b403882-85d9-4143-9480-b0b97a85f8c3.png" width="20%"><br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <br />
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/scut.jpg" title="scut" class="img-fluid rounded z-depth-1" zoomable=false %}
-    </div>
-</div>
+subtitle: <a href="https://scut-mm.github.io/index.html">SCUT Multimedia Technology and Image Processing Research Laboratory (MMLab)</a>, <img align="right" src="https://www.scut.edu.cn/_upload/article/images/93/f1/da8bef494e929b2303b75fcae24a/3b403882-85d9-4143-9480-b0b97a85f8c3.png" width="20%"><br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <br /><img align="middle" src="http://jw.scut.edu.cn/zhinan/v2Static/img/header/logo_right.jpg" width="100%">
 
 profile:
   align: right
