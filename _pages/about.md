@@ -99,7 +99,7 @@ During the summer 2024, I went to Singapore for a short academic visiting. I sta
 
 - Student Research Program (SRP)
 
-**Surface Defect Detection of Industrial Products based on Computer Vision**, supervised by <a href="http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/page.htm">Prof. YU</a>. (Secondary Team Leader, 2022 ~ 2023)
+  - **Surface Defect Detection of Industrial Products based on Computer Vision**, supervised by <a href="http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/page.htm">Prof. YU</a>. (Secondary Team Leader, 2022 ~ 2023)
 
 - Completed an Autoencoder-like network for <a href="https://leikrit.github.io/projects/15_HFR/">Hand-writing Formula Recognition</a>. Designed a <a href="https://leikrit.github.io/projects/7_project/">Motion Detector</a> by Python using differential methods. Designed a <a href="https://leikrit.github.io/projects/8_Scheduling/">Scheduler System</a> by Qt Creator in C++ Course Design. Designed a <a href="https://leikrit.github.io/projects/10_SIMS/">Student Management System</a> with the use of SQLite 3 in Database Course. Designed a <a href="https://leikrit.github.io/projects/9_Ecosphere_simulator/">Pseudo Eco-sphere</a> in Data Structure Course Design. More projects are shown in <a href="https://leikrit.github.io/projects/">project</a> page.
 
