@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Jinyi LI
 
 - title: Education
@@ -9,7 +9,7 @@
   contents:
     - title: B.S.
       institution: South China University of Technology, China
-      year: 2021 - present
+      year: 2025
       description:
         - School of Computer Science and Engineering
 
@@ -18,17 +18,17 @@
   contents:
     - title: Short Academic Program
       institution: Lady Margaret Hall, University of Oxford
-      year: Jul. 2023 - Aug. 2023
+      year: 2023
 
     - title: Remote Intern
       institution: Information Hub, The Hong Kong University of Science and Technology
-      year: Feb. 2024 - Jun. 2024
+      year: 2024
       description:
         - Focused on prompt compression topics and social behaviours of multi-agent board game.
     
     - title: Academic Communication
       institution: Singapore Management University, National University of Singapore and Nanyang Technological University
-      year: Jul. 2024
+      year: 2024
       description:
         - Short academic communcation in three university on site in Singapore.
 
@@ -36,7 +36,7 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression">PCToolkit</a>
-      year: 2024 - present
+      year: 2024
       description: A unified plug-and-play toolkit for prompt compression of large language models.
 
 - title: Honors and Awards
