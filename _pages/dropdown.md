@@ -7,6 +7,6 @@ dropdown: true
 children:
   - title: connections
     permalink: /people/
-  - title: Notion Space
+  - title: notion space
     permalink: https://trusting-heron-f61.notion.site/136e49071c6180b08f82f886a218f76d
 ---
