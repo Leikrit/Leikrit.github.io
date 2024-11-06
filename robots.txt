@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Leikrit.github.iohttps://trusting-heron-f61.notion.site/136e49071c6180b08f82f886a218f76d/sitemap.xml
+Sitemap: https://Leikrit.github.io/sitemap.xml
