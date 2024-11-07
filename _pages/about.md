@@ -91,7 +91,7 @@ During the summer 2024, I went to Singapore for a short academic visiting. I sta
 
 ### Projects
 
-- Meta Learning Based Research, supervised by Prof. LI. (2024 ~ current)
+- **Meta Learning Based Research**, supervised by Prof. LI. (2024 ~ current)
 
 - **Large Language Model (LLM)-Readable Context Compression**, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Prof. WANG</a>. (2024)
 
@@ -108,6 +108,8 @@ During the summer 2024, I went to Singapore for a short academic visiting. I sta
 ---
 
 ### Honors & Awards
+
+- **The First Prize Scholarship**, 2024
 
 - **The Dongfeng Enterprise Scholarship**, 2023
 
