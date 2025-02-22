@@ -25,9 +25,9 @@ social: true # includes social icons at the bottom of the page
 <!--
 <img align="middle" src="http://jw.scut.edu.cn/zhinan/v2Static/img/header/logo_right.jpg" width="100%">
 -->
-Hi there! I'm Jinyi (Jerry) LI, welcome to my personal website. In here, you can discover something about me.
+Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In here, you can discover something about me.
 
-I am currently an undergraduate student in South China University of Technology. I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great pleasure, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH.
+I am currently an undergraduate student in 🏫 South China University of Technology. I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great pleasure, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH.
 
 I worked as an intern with <a href='https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang'>Prof. WANG</a> at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>.
 
@@ -69,15 +69,10 @@ I worked with <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-
 
 <br />
 
+
+#### Singapore Management University & National University of Singapore & Nanyang Technological University & Agency for Science, Technology and Research (A*Star)
+
 <img align="middle" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="18%">   <img align="middle" src="https://nus.edu.sg/images/default-source/base/logo.png" width="18%">    <img align="middle" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="18%">    <img align="middle" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="18%">    <img align="middle" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="18%">
-
-#### Singapore Management University
-
-#### National University of Singapore
-
-#### Nanyang Technological University
-
-#### Agency for Science, Technology and Research (A*Star)
 
 - 2024.07
 
