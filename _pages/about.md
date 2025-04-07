@@ -6,7 +6,7 @@ subtitle: <img align="middle" src="assets/img/cslogo.png" width="100%"> <br /> <
 
 profile:
   align: right
-  image: jerryzhuhai.jpg
+  image: jerryzhuhai_low.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <!--
