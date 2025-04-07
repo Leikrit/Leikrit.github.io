@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <img align="middle" src="assets/img/cslogo.png" width="100%"> <br /> <a href="https://scut-mm.github.io/index.html">SCUT Laboratory of Visual Intelligence and Interdisciplinary Integration (V3I Lab)</a>, <br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <br /><img align="middle" src="assets/img/scut.jpg" width="100%">
+subtitle: <img align="middle" src="assets/img/cslogo.png" width="100%"> <br /> <a href="https://scut-mm.github.io/index.html">SCUT Laboratory of Visual Intelligence and Interdisciplinary Integration (V3I Lab)</a>, <br /><a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Engineering</a>. <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <br />
 
 profile:
   align: right
