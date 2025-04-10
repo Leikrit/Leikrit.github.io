@@ -281,8 +281,8 @@ display_categories: ["ideas"] # these categories will be displayed on the front 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Li]
+  first_name: [Jinyi, J.]
 
   style: apa
   locale: en
