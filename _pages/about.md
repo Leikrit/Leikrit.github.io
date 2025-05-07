@@ -102,9 +102,9 @@ During the summer 2024, I went to Singapore for a short academic visiting. I sta
 
 - **The Second Prize Scholarship**, 2022
 
-- **Merit Student**, 2022&2023 (Twice)
+- **Excellent League Member**, 2021 & 2022 & 2024 (Three times)
 
-- **Excellent League Member**, 2022&2023 (Twice)
+- **Merit Student**, 2022 & 2023 (Twice)
 
 - **Excellent Student Cadre**, 2023
 
