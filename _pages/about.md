@@ -59,7 +59,7 @@ intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In h
 
 - **Traffic Anomaly Detection Project**, supervised by <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof. Xu</a>. (Team Leader, 2024 ~ current)
 
-- **Large Language Model (LLM)-Readable Context Compression**, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Prof. WANG</a>. (2024)
+- **Large Language Model (LLM)-Readable Context Compression**, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang">Assoc. Prof. WANG</a>. (2024)
 
 - **Gesture Recognition Based on Cross-modal Supervision of Wi-Fi Beamforming Technique**. (Team Leader, 2023 ~ 2024)
 
@@ -99,7 +99,7 @@ I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer
 
 **Internship in Artificial Intellengce Thrust, Information Hub**
 
-I worked as an intern with <a href='https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang'>Prof. WANG</a> at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, doing researches on the topic of Large Language Models. We focused on Prompt Compression things and Multi-modal things.
+I worked as an intern with <a href='https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang'>Assoc. Prof. WANG</a> at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, doing researches on the topic of Large Language Models. We focused on Prompt Compression things and Multi-modal things.
 
 <br />
 
@@ -126,7 +126,7 @@ During the summer 2024, I went to Singapore for a short academic visiting. I sta
 
 Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/page.htm'>Prof. YU</a> who supported me when I firstly started my research. 
 
-<a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof. XU</a> is my supervisor for Bachelor's degree and will be my supervisor during Ph.D. 
+<a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof. XU</a> is my supervisor for Bachelor's degree and during Ph.D. 
 
 <br />
 
