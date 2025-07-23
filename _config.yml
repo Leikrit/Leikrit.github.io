@@ -172,6 +172,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  rendezvous:
+    output: true
+    permalink: /ziying/:path/
 
 announcements:
   enabled: true
