@@ -124,6 +124,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Jerry J.Y. LI # blog_name will be displayed in your blog page
 blog_description: Just something really chaotic...
+rendezvous_name: Jinyi & Ziying # rendezvous_name will be displayed in rendezvous page
+rendezvous_description: Our little rendezvous...
 permalink: /blog/:year/:title/
 
 # Pagination
