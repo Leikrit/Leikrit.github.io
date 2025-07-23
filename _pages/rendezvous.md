@@ -18,14 +18,14 @@ pagination:
 
 <div class="rendezvous">
 
-{% assign blog_name_size = site.blog_name | size %}
-{% assign blog_description_size = site.blog_description | size %}
+{% assign rendezvous_name_size = site.rendezvous_name | size %}
+{% assign rendezvous_description_size = site.rendezvous_description | size %}
 
-{% if blog_name_size > 0 or blog_description_size > 0 %}
+{% if rendezvous_name_size > 0 or rendezvous_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ "Jinyi & Ziying" }}</h1>
-    <h2>{{ "Our little rendezvous..." }}</h2>
+    <h1>{{ site.rendezvous_name }}</h1>
+    <h2>{{ site.rendezvous_description }}</h2>
   </div>
   {% endif %}
 
