@@ -16,7 +16,7 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-<div class="rendezvous">
+<div class="post">
 
 {% assign rendezvous_name_size = site.rendezvous_name | size %}
 {% assign rendezvous_description_size = site.rendezvous_description | size %}
