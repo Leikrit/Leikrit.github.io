@@ -5,7 +5,7 @@ title: Rendezvous
 nav: false
 nav_order: 20
 pagination:
-  enabled: true
+  enabled: false
   collection: rendezvous
   permalink: /page/:num/
   per_page: 5
@@ -15,8 +15,18 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
 ---
+<div class="post">
 
-<div>
+{% assign blog_name_size = site.rendezvous_name | size %}
+{% assign blog_description_size = site.rendezvous_description | size %}
+
+{% if blog_name_size > 0 or blog_description_size > 0 %}
+
+  <div class="header-bar">
+    <h1>{{ site.rendezvous_name }}</h1>
+    <h2>{{ site.rendezvous_description }}</h2>
+  </div>
+  {% endif %}
 
 <div class="container featured-posts">
 {% assign is_even = featured_posts.size | modulo: 2 %}
@@ -139,5 +149,8 @@ pagination:
 
   </ul>
 
+{% if page.pagination.enabled %}
+{% include pagination.liquid %}
+{% endif %}
 
 </div>
