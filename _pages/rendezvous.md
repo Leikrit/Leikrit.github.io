@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /ziying/
 title: Rendezvous
 nav: false
@@ -24,7 +24,7 @@ pagination:
   <div class="header-bar">
     <h1>{{ site.rendezvous_name }}</h1>
     <h2>{{ site.rendezvous_description }}</h2>
-    <h1> Jinyi & Ziying </h1>
+    <h1> XXXXXXXXXXXXXXXXXXXXXXX </h1>
   </div>
   {% endif %}
 
