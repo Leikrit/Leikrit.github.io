@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /ziying/
 title: Rendezvous
 nav: false
