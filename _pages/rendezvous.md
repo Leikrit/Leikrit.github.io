@@ -5,7 +5,7 @@ title: Rendezvous
 nav: false
 nav_order: 20
 pagination:
-  enabled: false
+  enabled: true
   collection: rendezvous
   permalink: /page/:num/
   per_page: 5
