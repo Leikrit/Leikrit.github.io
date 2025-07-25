@@ -22,11 +22,18 @@ pagination:
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
+  {% if pagination.collection == "rendezvous" %}
 
+  <div class="header-bar">
+    <h1>{{ site.rendezvous_name }}</h1>
+    <h2>{{ site.rendezvous_description }}</h2>
+  </div>
+  {% else %}
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
   </div>
+  {% endif %}
   {% endif %}
 
 {% if site.display_tags or site.display_categories %}
