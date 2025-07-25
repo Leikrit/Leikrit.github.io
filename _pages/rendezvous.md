@@ -5,7 +5,7 @@ title: Rendezvous
 nav: false
 nav_order: 20
 pagination:
-  enabled: true
+  enabled: false
   collection: rendezvous
   permalink: /page/:num/
   per_page: 5
@@ -68,7 +68,7 @@ pagination:
 
   <ul class="post-list">
 
-      {% assign postlist = paginator.posts %}
+      {% assign postlist = paginator.posts | paginator.collection: "rendezvous" %}
     {% for post in postlist %}
 
     {% if post.external_source == blank %}
