@@ -3,7 +3,7 @@ layout: page
 permalink: /ziying/
 title: Rendezvous
 nav: false
-nav_order: 1
+nav_order: 20
 pagination:
   enabled: true
   collection: rendezvous
