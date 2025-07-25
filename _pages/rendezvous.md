@@ -21,6 +21,12 @@ pagination:
 {% assign rendezvous_name_size = site.rendezvous_name | size %}
 {% assign rendezvous_description_size = site.rendezvous_description | size %}
 
+  <div class="header-bar">
+    <h1>{{ site.rendezvous_name }}</h1>
+    <h2>{{ site.rendezvous_description }}</h2>
+  </div>
+  {% endif %}
+
 {% if site.display_tags or site.display_categories %}
 
   <div class="tag-category-list">
