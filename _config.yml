@@ -175,6 +175,8 @@ collections:
     output: true
     permalink: /projects/:path/
   rendezvous:
+    defaults:
+      layout: post
     output: true
     permalink: /ziying/:path/
 
