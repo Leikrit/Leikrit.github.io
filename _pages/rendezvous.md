@@ -27,7 +27,6 @@ pagination:
     <h2>{{ site.rendezvous_description }}</h2>
   </div>
   {% endif %}
-
 <div class="container featured-posts">
 {% assign is_even = featured_posts.size | modulo: 2 %}
 <div class="row row-cols-{% if featured_posts.size <= 2 or is_even == 0 %}2{% else %}3{% endif %}">
@@ -69,12 +68,7 @@ pagination:
 
   <ul class="post-list">
 
-    {% if page.pagination.enabled %}
       {% assign postlist = paginator.posts %}
-    {% else %}
-      {% assign postlist = site.posts %}
-    {% endif %}
-
     {% for post in postlist %}
 
     {% if post.external_source == blank %}
