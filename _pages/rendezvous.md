@@ -68,7 +68,7 @@ pagination:
 
   <ul class="post-list">
 
-      {% assign postlist = paginator.posts | paginator.collection: "rendezvous" %}
+      {% assign postlist = paginator.posts | where: "collection","rendezvous" %}
     {% for post in postlist %}
 
     {% if post.external_source == blank %}
