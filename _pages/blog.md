@@ -32,7 +32,7 @@ pagination:
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
-  {% if pagination.collection == "rendezvous" %}
+  {% if collection == "rendezvous" %}
 
 >>>>>>> 73bfa517 (Initial commit)
   <div class="header-bar">
