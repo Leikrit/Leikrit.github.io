@@ -25,7 +25,6 @@ pagination:
   {% if page.pagination.collection == "rendezvous" %}
     <div class="header-bar">
       <h1>{{ site.rendezvous_name }}</h1>
-      <h2>{{ site.rendezvous_description }}</h2>
     </div>
   {% else %}
     <div class="header-bar">
@@ -36,7 +35,9 @@ pagination:
 {% endif %}
 
 {% if site.display_tags or site.display_categories %}
-
+  {% if page.pagination.collection == "rendezvous" %}
+    <h2>{{ site.rendezvous_description }}</h2>
+  {% else %}
   <div class="tag-category-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -61,6 +62,7 @@ pagination:
     </ul>
   </div>
   {% endif %}
+{% endif %}
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
