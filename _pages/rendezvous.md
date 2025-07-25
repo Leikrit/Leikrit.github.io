@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /ziying/
 title: Rendezvous
 nav: false
@@ -16,7 +16,7 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-<div class="post">
+<div>
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
