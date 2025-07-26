@@ -24,7 +24,7 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
   {% if page.pagination.collection == "rendezvous" %}
     <div class="header-bar">
-      <h1 style="background: linear-gradient(to right, rgb(58, 97, 134), rgb(137, 37, 62)); -webkit-background-clip: text; color: transparent;">{{ site.rendezvous_name }}</h1>
+      <h1 style="display:inline-block; background: linear-gradient(to right, rgb(58, 97, 134), rgb(137, 37, 62)); -webkit-background-clip: text; color: transparent;">{{ site.rendezvous_name }}</h1>
       <h2>{{ site.rendezvous_description }}</h2>
     </div>
   {% else %}
