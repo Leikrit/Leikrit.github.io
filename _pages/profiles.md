@@ -24,7 +24,7 @@ profiles:
       <p><font face="Times New Roman, sans-serif">Collaborator & Classmate of Jinyi Li since Septemper, 2021.</font></p>
       <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
   - align: left
-    image: cooper.jpg
+    image: [cooper.jpg](https://cooperzzy.github.io/assets/img/me.jpg?059595b6de36ec2a4450a06901f6122b)
     content: about_cooper.md
     image_circular: false # crops the image to make it circular
     more_info: >
