@@ -77,17 +77,27 @@ intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In h
 
 <br />
 
-#### University of Oxford
+#### South China University of Technology 
 
-<img align="right" src="https://th.bing.com/th?id=OSK.8b3e69c73dccc0632de7058c13f85e53&w=102&h=102&c=7&o=6&dpr=1.5&pid=SANGAM" width="20%">
+<img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" width="20%">
 
-- 2023.7.17 - 2023.8.4
+- 2025.9 - current
 
-**Artificial Intelligence and Machine Learning: Advanced Applications of Neural Networks and Deep Learning**
+**Ph.D.**
 
-**Oxford Grade: 83    Letter Grade: A+**
+I am currently a Ph.D. student at <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>, supervised by <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof Xu</a>.
 
-I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great pleasure, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH. I learnt a lot about Artificial Intelligence and Machine Learning. Specifically, I learnt Generative Models including Auto Regression, Auto Encoder, Variation Auto Encoder, Generative Adversarial Network and Diffusion Model; Reinforcement Learning including DQN, Actor and Critic and DDPG methods; Graph Neural Network including GCN. My tutor <a href="https://cemse.kaust.edu.sa/ai/people/person/naeemullah-khan">Prof. Khan</a> spoke very well of me.
+<br />
+
+#### Singapore Management University & National University of Singapore & Nanyang Technological University & Agency for Science, Technology and Research (A*Star)
+
+<img align="middle" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="18%">   <img align="middle" src="https://nus.edu.sg/images/default-source/base/logo.png" width="18%">    <img align="middle" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="18%">    <img align="middle" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="18%">    <img align="middle" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="18%">
+
+- 2024.07
+
+**Visiting & Communicating**
+
+During the summer 2024, I went to Singapore for a short academic visiting. I stayed at <a href="https://www.smu.edu.sg/">Singapore Management University (SMU)</a>, <a href="https://nus.edu.sg/">National University of Singapore (NUS)</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University (NTU)</a> and <a href="https://www.a-star.edu.sg/">Agency for Science, Technology and Research (A*Star)</a>. The academic communications covered fields including Computer Vision, Natural Language Processing, Augmented Reality, Virtual Reality, 3D Point Cloud, Causal Inference, Video Segmentation, Brain Science, Silence Communication, Imitation Learning, etc. I gave a speech about my personal academic experience at NExT++ Laboratory.
 
 <br />
 
@@ -103,22 +113,31 @@ I worked as an intern with <a href='https://facultyprofiles.hkust-gz.edu.cn/facu
 
 <br />
 
+#### University of Oxford
 
-#### Singapore Management University & National University of Singapore & Nanyang Technological University & Agency for Science, Technology and Research (A*Star)
+<img align="right" src="https://th.bing.com/th?id=OSK.8b3e69c73dccc0632de7058c13f85e53&w=102&h=102&c=7&o=6&dpr=1.5&pid=SANGAM" width="20%">
 
-<img align="middle" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="18%">   <img align="middle" src="https://nus.edu.sg/images/default-source/base/logo.png" width="18%">    <img align="middle" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="18%">    <img align="middle" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="18%">    <img align="middle" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="18%">
+- 2023.7.17 - 2023.8.4
 
-- 2024.07
+**Artificial Intelligence and Machine Learning: Advanced Applications of Neural Networks and Deep Learning**
 
-**Visiting & Communicating**
+**Oxford Grade: 83    Letter Grade: A+**
 
-During the summer 2024, I went to Singapore for a short academic visiting. I stayed at <a href="https://www.smu.edu.sg/">Singapore Management University (SMU)</a>, <a href="https://nus.edu.sg/">National University of Singapore (NUS)</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University (NTU)</a> and <a href="https://www.a-star.edu.sg/">Agency for Science, Technology and Research (A*Star)</a>. The academic communications covered fields including Computer Vision, Natural Language Processing, Augmented Reality, Virtual Reality, 3D Point Cloud, Causal Inference, Video Segmentation, Brain Science, Silence Communication, Imitation Learning, etc. I gave a speech about my personal academic experience at NExT++ Laboratory.
+I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great pleasure, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH. I learnt a lot about Artificial Intelligence and Machine Learning. Specifically, I learnt Generative Models including Auto Regression, Auto Encoder, Variation Auto Encoder, Generative Adversarial Network and Diffusion Model; Reinforcement Learning including DQN, Actor and Critic and DDPG methods; Graph Neural Network including GCN. My tutor <a href="https://cemse.kaust.edu.sa/ai/people/person/naeemullah-khan">Prof. Khan</a> spoke very well of me.
 
 <br />
 
+#### South China University of Technology 
 
+<img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" width="20%">
 
+- 2021.9 - 2025.7
 
+**Bachelor's Degree**
+
+I gained my bachelor's degree at <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a> in 2025.
+
+<br />
 
 ---
 
