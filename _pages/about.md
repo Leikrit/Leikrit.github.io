@@ -93,7 +93,7 @@ I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer
 
 #### Hong Kong University of Science and Technology (Guangzhou)
 
-<img align="right" src="https://th.bing.com/th/id/R.80d6da32d2290b2887423f6bf54f5cf5?rik=TLLIU2YcOasHTQ&riu=http%3a%2f%2fweihan.people.ust.hk%2fimages%2fHKUST(GZ)_Logo.png&ehk=os0Dp8QnH4Q3C2okh7tW8%2bl2BYroNqLdgw2NvbvOnxQ%3d&risl=&pid=ImgRaw&r=0" width="20%">
+<img align="right" src="https://www.hkust-gz.edu.cn/wp-content/themes/hkust-gz-official/images/logo-e-blue-2x.png" width="20%">
 
 - 2024.2.1 - 2024.6.7
 
