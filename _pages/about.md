@@ -9,7 +9,6 @@ profile:
   image: jerryzhuhai_low.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DJs6FtkMAAAAJ" width="20%">
     <!--
     <p align="center"><font face="Times New Roman, sans-serif">GPA: 3.81/4.0</font></p>
     <br />
@@ -22,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 social: true # includes social icons at the bottom of the page
-intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In here, you can discover something about me.<br /><br />I am currently a Ph.D. student at 🏫 <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Technology</a>, <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. I obtained my B. Eng. degree at <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Technology</a>, <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a> in 2025.<br /><br />My current research projects include Meta Learning related works. My interests include Vision-Language Navigation, Multi-Modaling, Large Language Models, and Meta Learning.<br /><br />My latest paper is available on OpenReview. Check out <a href='https://openreview.net/forum?id=lbFVTPv4s6'>An Empirical Study on Prompt Compression for Large Language Models</a>.<br /><br /><br />
+intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In here, you can discover something about me.<br /><br />I am currently a Ph.D. student at 🏫 <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Technology</a>, <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>. <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DJs6FtkMAAAAJ"> I obtained my B. Eng. degree at <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Technology</a>, <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a> in 2025.<br /><br />My current research projects include Meta Learning related works. My interests include Vision-Language Navigation, Multi-Modaling, Large Language Models, and Meta Learning.<br /><br />My latest paper is available on OpenReview. Check out <a href='https://openreview.net/forum?id=lbFVTPv4s6'>An Empirical Study on Prompt Compression for Large Language Models</a>.<br /><br /><br />
 
 ---
 <!--
