@@ -9,6 +9,7 @@ profile:
   image: jerryzhuhai_low.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DJs6FtkMAAAAJ">
     <!--
     <p align="center"><font face="Times New Roman, sans-serif">GPA: 3.81/4.0</font></p>
     <br />
