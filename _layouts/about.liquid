@@ -5,7 +5,7 @@ layout: default
 <!-- 1. 头图外壳：横向整屏 + 纵向 100vh -->
 <div style="position:relative; width:100vw; left:calc(-50vw + 50%); height:100vh; overflow:hidden;">
   <iframe id="headerFrame"
-          src="/assets/html/header.html"
+          src="{{ '/assets/html/header.html' | relative_url }}"
           frameborder="0"
           style="position:absolute; top:0; left:0; width:100%; height:100%; display:block; background:#000;">
   </iframe>
