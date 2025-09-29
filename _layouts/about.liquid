@@ -1,164 +1,166 @@
 ---
 layout: default
 ---
-<img align="middle" src="assets/img/cslogo.png" width="100%"> <br /><br />
-<!-- CSS
-================================================== -->
-<link rel="stylesheet" href="assets/css/css_hola10/base.css">
-<link rel="stylesheet" href="assets/css/css_hola10/vendor.css">
-<link rel="stylesheet" href="assets/css/css_hola10/main.css">
 
-<!-- script
-================================================== -->
-<script src="assets/js/js_hola10/modernizr.js"></script>
-<script src="assets/js/js_hola10/pace.min.js"></script>
+{% comment %} ===== 1. 仅对“我的区域”生效的 CSS ===== {% endcomment %}
 <style>
-        /* 加上 -webkit- 注意兼容 */
-        h1 {
-            background: -webkit-linear-gradient(135deg,
-                    #0eaf6d,
-                    #ff6ac6 25%,
-                    #147b96 50%,
-                    #e6d205 55%,
-                    #2cc4e0 60%,
-                    #8b2ce0 80%,
-                    #ff6384 95%,
-                    #08dfb4);
-            /* 文字颜色填充设置为透明 */
-            -webkit-text-fill-color: transparent;
-            /* 背景裁剪，即让文字使用背景色 */
-            -webkit-background-clip: text;
-            /* 背景图放大一下，看着柔和一些 */
-            -webkit-background-size: 200% 100%;
-            /* 应用动画flowCss 12秒速度 无限循环 线性匀速动画*/
-            -webkit-animation: flowCss 12s infinite linear;
-        }
+/* 所有新增样式前面都挂 .my-home-area */
+.my-home-area {
+  /* 先重置掉可能从父级继承的干扰 */
+  all: initial;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+.my-home-area img{width:100%}
 
-        @-webkit-keyframes flowCss {
-            0% {
-                /* 移动背景位置 */
-                background-position: 0 0;
-            }
+.my-home-area h1{
+  background:-webkit-linear-gradient(135deg,
+    #0eaf6d,#ff6ac6 25%,#147b96 50%,#e6d205 55%,
+    #2cc4e0 60%,#8b2ce0 80%,#ff6384 95%,#08dfb4);
+  -webkit-text-fill-color:transparent;
+  -webkit-background-clip:text;
+  -webkit-background-size:200% 100%;
+  -webkit-animation:flowCss 12s infinite linear;
+}
+@-webkit-keyframes flowCss{
+  0%{background-position:0 0}
+  100%{background-position:-400% 0}
+}
+.my-home-area h1:hover{-webkit-animation-duration:4s}
 
-            100% {
-                background-position: -400% 0;
-            }
-        }
-
-        h1:hover {
-            -webkit-animation: flowCss 4s infinite linear;
-        }
+/* 如果你引用的 hola10 框架里还有别的 class，继续挂 .my-home-area 前缀即可 */
+.my-home-area .overlay{
+  background:rgba(0,0,0,.55);
+}
+.my-home-area .shadow-overlay{
+  background:rgba(0,0,0,.15);
+}
+.my-home-area .home-content{
+  height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  color:#fff;
+}
 </style>
 
-<body id="top">
-   <!-- home
-   ================================================== -->
-   <section id="home" class="s-home page-hero target-section" data-parallax="scroll" data-image-src="assets/img/jy.jpg" data-natural-width=4478 data-natural-height=2517 data-position-y=center>
+{% comment %} ===== 2. 仅对“主题默认区域”恢复成原样 ===== {% endcomment %}
+<style>
+/* 把 .post 及以下显式恢复成主题原来那一套，
+   这里只写一份“保险”重置，真正的大头还是主题自己的 css 文件 */
+.default-theme-area{
+  all: initial;
+  /* 让浏览器重新应用原来外链的 bootstrap、主题 css */
+  font-family: inherit;
+  line-height: inherit;
+  color: inherit;
+}
+</style>
 
-        <div class="overlay"></div>
-        <div class="shadow-overlay"></div>
+{% comment %} ===== 3. 加载额外 JS（只在你那段里跑） ===== {% endcomment %}
+<script src="assets/js/js_hola10/modernizr.js"></script>
+<script src="assets/js/js_hola10/pace.min.js"></script>
+<script>
+/* 保证只操作 .my-home-area 里的节点 */
+document.addEventListener('DOMContentLoaded',function(){
+  const home = document.querySelector('.my-home-area');
+  if(!home) return;
 
-        <div class="home-content">
+  // 下面写你原来 main.js 里只针对首页的那段逻辑
+  // 例如 parallax、typed 之类，全部限定在 home 内部
+});
+</script>
 
-            <div class="row home-content__main">
-                <h3>Hello There</h3>
+{% comment %} ===== 4. HTML 结构 ===== {% endcomment %}
+<img align="middle" src="assets/img/cslogo.png" width="100%"><br><br>
 
-                <h1>
-                    I am Jinyi Li. <br>
-                    An alchemist <br>
-                    in artifitial intelligence.
-                </h1>
-            </div>
+<!-- 你自己的区域 -->
+<section id="home" class="my-home-area s-home page-hero target-section"
+         data-parallax="scroll" data-image-src="assets/img/jy.jpg"
+         data-natural-width="4478" data-natural-height="2517" data-position-y="center">
+  <div class="overlay"></div>
+  <div class="shadow-overlay"></div>
+  <div class="home-content">
+    <div class="row home-content__main">
+      <h3>Hello There</h3>
+      <h1>
+        I am Jinyi Li. <br>
+        An alchemist <br>
+        in artificial intelligence.
+      </h1>
+    </div>
+  </div>
+</section>
 
-        </div> <!-- end home-content -->
-    </section> <!-- end s-home -->
-    <!-- Java Script
-    ================================================== -->
-    <script src="assets/js/js_hola10/jquery-3.2.1.min.js"></script>
-    <script src="assets/js/js_hola10/plugins.js"></script>
-    <script src="assets/js/js_hola10/main.js"></script>
+<!-- 主题默认区域 -->
+<div class="default-theme-area">
+  <div class="post">
+    <header class="post-header">
+      <h1>
+        {% if site.title == 'blank' %}
+          {{ site.first_name }} {{ site.middle_name }}
+          <span class="font-weight-bold">{{ site.last_name }}</span>
+        {% else %}
+          {{ site.first_name }} {{ site.middle_name }}
+          <span class="font-weight-bold">{{ site.last_name }}</span>
+        {% endif %}
+      </h1>
+      <p class="desc">{{ page.subtitle }}</p>
+    </header>
 
-</body>
-
-<div class="post">
-  <header class="post-header">
-    <!--h1 style="
-    display:inline-block;
-    background: linear-gradient(to right, rgb(131, 96, 195), rgb(46, 191, 145));
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;"-->
-    <h1>
-      {% if site.title == 'blank' %}
-        {{ site.first_name }} {{ site.middle_name }}
-        <span class="font-weight-bold">{{ site.last_name }}</span>
-      {% else %}
-        {{ site.first_name }} {{ site.middle_name }}
-        <span class="font-weight-bold">{{ site.last_name }}</span>
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p> <br />
-  </header>
-
-  <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
+    <article>
+      {% if page.profile %}
+        <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+          {% if page.profile.image %}
+            {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+            {% if page.profile.image_circular %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% else %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% endif %}
+            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+            {%
+              include figure.liquid loading="lazy" path=profile_image_path
+              class=profile_image_class sizes=sizes alt=page.profile.image
+              cache_bust=true
+            %}
           {% endif %}
-          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="lazy" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
-        {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
-      </div>
-    {% endif %}
+          {% if page.profile.more_info %}
+            <div class="more-info">{{ page.profile.more_info }}</div>
+          {% endif %}
+        </div>
+      {% endif %}
 
-    <div class="clearfix">{{ page.intro }}</div>
+      <div class="clearfix">{{ page.intro }}</div>
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
-    {% endif %}
+      {% if page.selected_papers %}
+        <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a></h2>
+        {% include selected_papers.liquid %}
+      {% endif %}
 
-    <!-- News -->
-    {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
+      {% if page.news and site.announcements.enabled %}
+        <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a></h2>
+        {% include news.liquid limit=true %}
+      {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+      <div class="clearfix">{{ content }}</div>
 
-    <!-- Latest posts -->
-    {% if page.latest_posts %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %}
+      {% if page.latest_posts %}
+        <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest posts</a></h2>
+        {% include latest_posts.liquid %}
+      {% endif %}
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
-  </article>
+      {% if page.social %}
+        <div class="social">
+          <div class="contact-icons">{% include social.liquid %}</div>
+          <div class="contact-note">{{ site.contact_note }}</div>
+        </div>
+      {% endif %}
+    </article>
+  </div>
 </div>
+
+{% comment %} ===== 5. 把你原来底部的 JS 也放过来，但同样只操作 .my-home-area ===== {% endcomment %}
+<script src="assets/js/js_hola10/jquery-3.2.1.min.js"></script>
+<script src="assets/js/js_hola10/plugins.js"></script>
+<script src="assets/js/js_hola10/main.js"></script>
