@@ -2,15 +2,14 @@
 layout: default
 ---
 
-<!-- 1. 头图：整页宽度，零污染 -->
-<iframe id="headerFrame"
-        src="/assets/html/header.html"
-        frameborder="0"
-        width="100%"
-        height="100vh"
-        scrolling="no"
-        style="background:#000;display:block;">
-</iframe>
+<!-- 1. 头图外壳：横向整屏 + 纵向 100vh -->
+<div style="position:relative; width:100vw; left:calc(-50vw + 50%); height:100vh; overflow:hidden;">
+  <iframe id="headerFrame"
+          src="/assets/html/header.html"
+          frameborder="0"
+          style="position:absolute; top:0; left:0; width:100%; height:100%; display:block; background:#000;">
+  </iframe>
+</div>
 
 <script>
 /* 可选：让 iframe 高度随内部内容自动伸缩（若高度固定可删） */
@@ -20,6 +19,7 @@ window.addEventListener('load',()=>{
 });
 </script>
 
+<br />
 <!-- 2. logo + 正文：完全回归主题默认样式 -->
 <img align="middle" src="{{ '/assets/img/cslogo.png' | relative_url }}" width="100%"><br><br>
 
