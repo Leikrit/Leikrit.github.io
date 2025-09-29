@@ -2,80 +2,61 @@
 layout: default
 ---
 
-{% comment %} ===== 1. 仅对“我的区域”生效的 CSS ===== {% endcomment %}
 <style>
-/* 所有新增样式前面都挂 .my-home-area */
-.my-home-area {
-  /* 先重置掉可能从父级继承的干扰 */
-  all: initial;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-}
-.my-home-area img{width:100%}
+/* ===== 1. 仅对“头图区域”生效的样式 ===== */
+.my-home-area{
+  /* 突破父级容器，强制满屏宽 */
+  width:100vw;
+  position:relative;
+  left:50%;
+  right:50%;
+  margin-left:-50vw;
+  margin-right:-50vw;
 
-.my-home-area h1{
-  background:-webkit-linear-gradient(135deg,
-    #0eaf6d,#ff6ac6 25%,#147b96 50%,#e6d205 55%,
-    #2cc4e0 60%,#8b2ce0 80%,#ff6384 95%,#08dfb4);
-  -webkit-text-fill-color:transparent;
-  -webkit-background-clip:text;
-  -webkit-background-size:200% 100%;
-  -webkit-animation:flowCss 12s infinite linear;
-}
-@-webkit-keyframes flowCss{
-  0%{background-position:0 0}
-  100%{background-position:-400% 0}
-}
-.my-home-area h1:hover{-webkit-animation-duration:4s}
-
-/* 如果你引用的 hola10 框架里还有别的 class，继续挂 .my-home-area 前缀即可 */
-.my-home-area .overlay{
-  background:rgba(0,0,0,.55);
-}
-.my-home-area .shadow-overlay{
-  background:rgba(0,0,0,.15);
-}
-.my-home-area .home-content{
+  /* 保持全屏视口高度，如需自适应高度可删掉 */
   height:100vh;
+  background-size:cover;
+  background-position:center;
   display:flex;
   align-items:center;
   justify-content:center;
-  text-align:center;
   color:#fff;
 }
-</style>
 
-{% comment %} ===== 2. 仅对“主题默认区域”恢复成原样 ===== {% endcomment %}
-<style>
-/* 把 .post 及以下显式恢复成主题原来那一套，
-   这里只写一份“保险”重置，真正的大头还是主题自己的 css 文件 */
-.default-theme-area{
-  all: initial;
-  /* 让浏览器重新应用原来外链的 bootstrap、主题 css */
-  font-family: inherit;
-  line-height: inherit;
-  color: inherit;
+.my-home-area .overlay{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background:rgba(0,0,0,.55);
 }
+.my-home-area .shadow-overlay{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background:rgba(0,0,0,.15);
+}
+.my-home-area .home-content{position:relative;z-index:2;text-align:center;}
+
+/* ===== 2. 恢复主题默认区域 ===== */
+.default-theme-area{all:initial;font-family:inherit;line-height:inherit;color:inherit;}
 </style>
 
-{% comment %} ===== 3. 加载额外 JS（只在你那段里跑） ===== {% endcomment %}
 <script src="assets/js/js_hola10/modernizr.js"></script>
 <script src="assets/js/js_hola10/pace.min.js"></script>
 <script>
-/* 保证只操作 .my-home-area 里的节点 */
 document.addEventListener('DOMContentLoaded',function(){
-  const home = document.querySelector('.my-home-area');
-  if(!home) return;
-
-  // 下面写你原来 main.js 里只针对首页的那段逻辑
-  // 例如 parallax、typed 之类，全部限定在 home 内部
+  const home=document.querySelector('.my-home-area');
+  if(!home)return;
+  /* 这里写只针对头图的 JS 逻辑 */
 });
 </script>
 
-{% comment %} ===== 4. HTML 结构 ===== {% endcomment %}
-<img align="middle" src="assets/img/cslogo.png" width="100%"><br><br>
-
-<!-- 你自己的区域 -->
-<section id="home" class="my-home-area s-home page-hero target-section"
+<!-- 头图：横向满屏 / 高度视口 -->
+<section id="home" class="my-home-area s-home target-section"
          data-parallax="scroll" data-image-src="assets/img/jy.jpg"
          data-natural-width="4478" data-natural-height="2517" data-position-y="center">
   <div class="overlay"></div>
@@ -92,7 +73,9 @@ document.addEventListener('DOMContentLoaded',function(){
   </div>
 </section>
 
-<!-- 主题默认区域 -->
+<!-- logo 与正文：保持主题默认宽度 -->
+<img align="middle" src="assets/img/cslogo.png" width="100%"><br><br>
+
 <div class="default-theme-area">
   <div class="post">
     <header class="post-header">
@@ -160,7 +143,6 @@ document.addEventListener('DOMContentLoaded',function(){
   </div>
 </div>
 
-{% comment %} ===== 5. 把你原来底部的 JS 也放过来，但同样只操作 .my-home-area ===== {% endcomment %}
 <script src="assets/js/js_hola10/jquery-3.2.1.min.js"></script>
 <script src="assets/js/js_hola10/plugins.js"></script>
 <script src="assets/js/js_hola10/main.js"></script>
