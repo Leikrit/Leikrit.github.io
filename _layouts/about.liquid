@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+<style>
+/* 把主题给 <main>、.wrapper、.post 的顶 margin/padding 全干掉 */
+.page-about .wrapper,
+.page-about main,
+.page-about .post{
+  margin-top:0 !important;
+  padding-top:0 !important;
+}
+/* 再把 body 自身可能的 8px 空白去掉 */
+body{margin-top:0 !important;}
+</style>
 
 <!-- 1. 头图外壳：横向整屏 + 纵向 100vh -->
 {%- assign headerSrc = site.url | append: site.baseurl | append: "/assets/html/header.html" -%}
