@@ -2,51 +2,32 @@
 layout: default
 ---
 <style>
-/* 贴顶 + 全屏 iframe 外壳 */
-body{margin-top:0 !important;}
-.full-header{
-  position:relative;
-  width:100vw;
-  left:calc(-50vw + 50%);
-  height:100vh;
-  overflow:hidden;
+/* 把主题给 <main>、.wrapper、.post 的顶 margin/padding 全干掉 */
+.page-about .wrapper,
+.page-about main,
+.page-about .post{
+  margin-top:0 !important;
+  padding-top:0 !important;
 }
+/* 再把 body 自身可能的 8px 空白去掉 */
+body{margin-top:0 !important;}
 </style>
 
-<div class="full-header">
+<!-- 1. 头图外壳：横向整屏 + 纵向 100vh -->
+{%- assign headerSrc = site.url | append: site.baseurl | append: "/assets/html/header.html" -%}
+<div style="position:relative; width:100vw; left:calc(-50vw + 50%); height:100vh; overflow:hidden;">
   <iframe id="headerFrame"
-          src="{{ '/assets/html/header.html' | relative_url }}"
+          src="{{ headerSrc }}"
           frameborder="0"
           style="position:absolute; top:0; left:0; width:100%; height:100%; display:block; background:#000;">
   </iframe>
 </div>
 
-<!-- 整页共用 JS -->
-<script src="{{ '/assets/js/js_hola10/jquery-3.2.1.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/js_hola10/plugins.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/js_hola10/main.js' | relative_url }}"></script>
-
 <script>
-/* 手动初始化：先等 iframe 加载完，再执行 main.js 里需要的逻辑 */
-window.addEventListener('load', function () {
-  const headerFrame = document.getElementById('headerFrame');
-  if (!headerFrame) return;
-
-  // 1. 自动高度（可选）
-  headerFrame.onload = function () {
-    this.style.height = this.contentDocument.documentElement.scrollHeight + 'px';
-  };
-
-  // 2. 对 iframe 内部做 parallax
-  headerFrame.onload = function () {
-    const iframeDoc = this.contentDocument || this.contentWindow.document;
-    const $iframeBody = iframeDoc.body;
-    // 如果 main.js 里用 $('#home').parallax(); 要改成
-    $($iframeBody).find('#home').parallax();
-  };
-
-  // 3. 下面可以继续写“父页面”其他 JS（typed、counter、slider...）
-  //    这里就能操控 .post 区域了
+/* 可选：让 iframe 高度随内部内容自动伸缩（若高度固定可删） */
+window.addEventListener('load',()=>{
+  const f=document.getElementById('headerFrame');
+  f.onload=()=>f.style.height=f.contentDocument.documentElement.scrollHeight+'px';
 });
 </script>
 
