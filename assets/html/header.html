@@ -4,30 +4,27 @@
   <meta charset="utf-8">
   <title>header</title>
 
-  <!-- 仅在该 HTML 里生效 -->
-  <link rel="stylesheet" href="/assets/css/css_hola10/base.css">
-  <link rel="stylesheet" href="/assets/css/css_hola10/vendor.css">
-  <link rel="stylesheet" href="/assets/css/css_hola10/main.css">
-
-  <script src="/assets/js/js_hola10/modernizr.js"></script>
-  <script src="/assets/js/js_hola10/pace.min.js"></script>
+  <!-- 仅样式 -->
+  <link rel="stylesheet" href="{{ '/assets/css/css_hola10/base.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/css_hola10/vendor.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/css_hola10/main.css' | relative_url }}">
 
   <style>
     html,body{margin:0;height:100%;}
+    .s-home{height:100vh;}
     .home-content{position:relative;z-index:2;text-align:center;color:#fff;}
   </style>
 </head>
 
 <body>
-  <section id="home" class="s-home page-hero"
+  <section id="home" class="s-home"
            data-parallax="scroll"
-           data-image-src="/assets/img/jy.jpg"
+           data-image-src="{{ '/assets/img/jy.jpg' | relative_url }}"
            data-natural-width="4478"
            data-natural-height="2517"
            data-position-y="center">
     <div class="overlay"></div>
     <div class="shadow-overlay"></div>
-
     <div class="home-content">
       <h3>Hello There</h3>
       <h1>
@@ -37,9 +34,6 @@
       </h1>
     </div>
   </section>
-
-  <script src="/assets/js/js_hola10/jquery-3.2.1.min.js"></script>
-  <script src="/assets/js/js_hola10/plugins.js"></script>
-  <script src="/assets/js/js_hola10/main.js"></script>
+  <!--  无 JS！ -->
 </body>
 </html>
