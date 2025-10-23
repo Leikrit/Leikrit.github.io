@@ -1,0 +1,66 @@
+/* Normalize & 基础设置 */
+html {
+  font-family: sans-serif;
+  font-size: 62.5%;
+  box-sizing: border-box;
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-weight: normal;
+  line-height: 1;
+  word-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  -webkit-overflow-scrolling: touch;
+  -webkit-text-size-adjust: none;
+}
+
+/* 图片与视频自适应 */
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 标题与段落重置 */
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* 链接样式 */
+a {
+  background-color: transparent;
+  text-decoration: none;
+  line-height: inherit;
+}
+a:active, a:hover {
+  outline-width: 0;
+}
+a img {
+  border: none;
+}
+
+/* 布局容器 */
+.row {
+  width: 94%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* 栅格列（用于 .row home-content__main） */
+[class*="col-"] {
+  float: left;
+  padding: 0 20px;
+}
