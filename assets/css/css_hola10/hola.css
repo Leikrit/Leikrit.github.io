@@ -1,0 +1,186 @@
+/* ===================================================================
+   Hola merged stylesheet (base + vendor + main) - slimmed for hola.liquid
+   =================================================================== */
+
+/* --------------------------------------------------
+   Normalize & base
+   -------------------------------------------------- */
+html {
+  font-family: sans-serif;
+  font-size: 62.5%;
+  box-sizing: border-box;
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: "librebaskerville-regular", serif;
+  font-size: 1.6rem;
+  line-height: 1.875;
+  color: #5f5f5f;
+  font-weight: normal;
+  word-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  -webkit-overflow-scrolling: touch;
+  -webkit-text-size-adjust: none;
+}
+
+/* Media */
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Typography resets */
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Links (base + theme) */
+a {
+  background-color: transparent;
+  text-decoration: none;
+  line-height: inherit;
+  color: #862121;
+  transition: all 0.3s ease-in-out;
+}
+a:hover, a:focus, a:active {
+  outline-width: 0;
+  color: #191A3F;
+}
+a img {
+  border: none;
+}
+
+/* --------------------------------------------------
+   Grid (minimal used)
+   -------------------------------------------------- */
+.row {
+  width: 94%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+[class*="col-"] {
+  float: left;
+  padding: 0 20px;
+}
+
+/* --------------------------------------------------
+   Home hero section
+   -------------------------------------------------- */
+#home.s-home.page-hero.target-section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Overlays */
+.overlay,
+.shadow-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+.shadow-overlay {
+  background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
+  opacity: 0.8;
+}
+
+/* Home content */
+.home-content {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+}
+
+.home-content__main h3 {
+  font-family: "montserrat-medium", sans-serif;
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #fff;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.home-content__main h1 {
+  font-family: "librebaskerville-bold", serif;
+  font-size: 6rem;
+  line-height: 1.35;
+  color: #fff;
+}
+
+/* General headings (outside hero) */
+h1 {
+  font-family: "montserrat-bold", sans-serif;
+  font-size: 3.6rem;
+  line-height: 1.25;
+  letter-spacing: -0.1rem;
+  color: #0D0A0B;
+  margin-top: 6rem;
+  margin-bottom: 1.8rem;
+}
+
+h3 {
+  font-family: "montserrat-medium", sans-serif;
+  font-size: 2.4rem;
+  line-height: 1.25;
+  color: #0D0A0B;
+  margin-top: 6rem;
+  margin-bottom: 1.8rem;
+}
+
+/* Page container helpers */
+#top {
+  position: relative;
+}
+
+/* --------------------------------------------------
+   Pace.js progress bar (used by hola.liquid scripts)
+   -------------------------------------------------- */
+.pace {
+  pointer-events: none;
+  user-select: none;
+}
+.pace-inactive {
+  display: none;
+}
+.pace .pace-progress {
+  background: #862121;
+  position: fixed;
+  z-index: 900;
+  top: 0;
+  right: 100%;
+  width: 100%;
+  height: 4px;
+}
+
+/* --------------------------------------------------
+   Optional IE class (retained minimal)
+   -------------------------------------------------- */
+.oldie.ie9 {
+  background-color: #f0f0f0;
+}
