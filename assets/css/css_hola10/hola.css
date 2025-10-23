@@ -1,17 +1,37 @@
 /* ===================================================================
-   Hola merged stylesheet (base + vendor + main) - slimmed for hola.liquid
-   =================================================================== */
+ * # normalize
+ * normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css
+ * =================================================================== */
 
-/* --------------------------------------------------
-   Normalize & base
-   -------------------------------------------------- */
 html {
   font-family: sans-serif;
-  font-size: 62.5%;
-  box-sizing: border-box;
-  line-height: 1.15;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+article, aside, footer, header, nav, section {
+  display: block;
+}
+
+a {
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+img {
+  border-style: none;
+}
+
+/* ===================================================================
+ * # basic/base setup styles
+ * =================================================================== */
+
+html {
+  box-sizing: border-box;
 }
 
 *, *::before, *::after {
@@ -19,168 +39,166 @@ html {
 }
 
 body {
-  margin: 0;
-  font-family: "librebaskerville-regular", serif;
-  font-size: 1.6rem;
-  line-height: 1.875;
-  color: #5f5f5f;
   font-weight: normal;
   word-wrap: break-word;
   text-rendering: optimizeLegibility;
   -webkit-overflow-scrolling: touch;
   -webkit-text-size-adjust: none;
-}
-
-/* Media */
-img, video {
-  max-width: 100%;
-  height: auto;
-}
-
-/* Typography resets */
-h1, h2, h3, h4, h5, h6, p {
   margin: 0;
   padding: 0;
 }
 
-/* Links (base + theme) */
-a {
-  background-color: transparent;
-  text-decoration: none;
-  line-height: inherit;
-  color: #862121;
-  transition: all 0.3s ease-in-out;
-}
-a:hover, a:focus, a:active {
-  outline-width: 0;
-  color: #191A3F;
-}
-a img {
-  border: none;
-}
+/* ===================================================================
+ * # grid
+ * =================================================================== */
 
-/* --------------------------------------------------
-   Grid (minimal used)
-   -------------------------------------------------- */
 .row {
   width: 94%;
   max-width: 1200px;
   margin: 0 auto;
 }
+
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
+
 [class*="col-"] {
   float: left;
   padding: 0 20px;
 }
 
-/* --------------------------------------------------
-   Home hero section
-   -------------------------------------------------- */
-#home.s-home.page-hero.target-section {
-  position: relative;
+.col-full {
   width: 100%;
-  height: 100vh;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
 
-/* Overlays */
-.overlay,
-.shadow-overlay {
+/* ===================================================================
+ * # home
+ * =================================================================== */
+
+.s-home {
+  width: 100%;
+  height: 100%;
+  min-height: 786px;
+  background-color: transparent;
+  position: relative;
+  display: table;
+}
+
+.s-home .overlay {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-}
-.overlay {
-  background: rgba(0, 0, 0, 0.3);
-}
-.shadow-overlay {
-  background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
-  opacity: 0.8;
+  opacity: .5;
+  background-color: #111111;
 }
 
-/* Home content */
-.home-content {
-  position: relative;
-  z-index: 2;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-  text-align: center;
-}
-
-.home-content__main h3 {
-  font-family: "montserrat-medium", sans-serif;
-  font-size: 1.8rem;
-  margin-bottom: 1rem;
-  color: #fff;
-  text-transform: none;
-  letter-spacing: 0;
-}
-
-.home-content__main h1 {
-  font-family: "librebaskerville-bold", serif;
-  font-size: 6rem;
-  line-height: 1.35;
-  color: #fff;
-}
-
-/* General headings (outside hero) */
-h1 {
-  font-family: "montserrat-bold", sans-serif;
-  font-size: 3.6rem;
-  line-height: 1.25;
-  letter-spacing: -0.1rem;
-  color: #0D0A0B;
-  margin-top: 6rem;
-  margin-bottom: 1.8rem;
-}
-
-h3 {
-  font-family: "montserrat-medium", sans-serif;
-  font-size: 2.4rem;
-  line-height: 1.25;
-  color: #0D0A0B;
-  margin-top: 6rem;
-  margin-bottom: 1.8rem;
-}
-
-/* Page container helpers */
-#top {
-  position: relative;
-}
-
-/* --------------------------------------------------
-   Pace.js progress bar (used by hola.liquid scripts)
-   -------------------------------------------------- */
-.pace {
-  pointer-events: none;
-  user-select: none;
-}
-.pace-inactive {
-  display: none;
-}
-.pace .pace-progress {
-  background: #862121;
-  position: fixed;
-  z-index: 900;
+.s-home .shadow-overlay {
+  position: absolute;
   top: 0;
-  right: 100%;
+  left: 0;
   width: 100%;
-  height: 4px;
+  height: 100%;
+  opacity: .8;
+  background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
 }
 
-/* --------------------------------------------------
-   Optional IE class (retained minimal)
-   -------------------------------------------------- */
-.oldie.ie9 {
-  background-color: #f0f0f0;
+.home-content {
+  display: table-cell;
+  width: 100%;
+  height: 100%;
+  vertical-align: bottom;
+  padding-bottom: 19.2rem;
+  position: relative;
+}
+
+.home-content h3 {
+  font-family: "montserrat-bold", sans-serif;
+  color: #862121;
+  text-transform: uppercase;
+  letter-spacing: .5rem;
+  position: relative;
+  padding-left: 80px;
+  margin-left: -30px;
+  margin-bottom: .6rem;
+}
+
+.home-content h3::before {
+  display: block;
+  content: "";
+  width: 60px;
+  height: 2px;
+  background-color: #862121;
+  margin-top: -1.5px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+}
+
+.home-content h1 {
+  font-family: "librebaskerville-bold", serif;
+  color: #FFFFFF;
+  margin-top: 0;
+}
+
+.home-content__main {
+  padding-right: 300px;
+  position: relative;
+}
+
+/* ===================================================================
+ * # responsive
+ * =================================================================== */
+
+@media only screen and (max-width: 1200px) {
+  .home-content__main {
+    max-width: 800px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .home-content__main {
+    padding-right: 40px;
+    max-width: 680px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .home-content__main {
+    max-width: 500px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .home-content {
+    padding-bottom: 15rem;
+  }
+  .home-content__main {
+    max-width: 380px;
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .s-home {
+    min-height: 654px;
+  }
+  .home-content__main {
+    width: 85%;
+    margin-top: 150px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .home-content {
+    vertical-align: middle;
+  }
+  .home-content__main {
+    width: auto;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
 }
