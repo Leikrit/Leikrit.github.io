@@ -120,6 +120,12 @@
       </div>
     </div>
   </nav>
+
+  {% if page.permalink == '/' %}
+    <!-- Including header image -->
+    {% include hola10/hola.liquid %}
+  {% endif %}
+
   {% if site.enable_progressbar %}
     <!-- Scrolling Progress Bar -->
     <progress id="progress" value="0">
