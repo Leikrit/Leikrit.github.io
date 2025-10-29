@@ -1,4 +1,8 @@
 <header>
+  {% if page.permalink == '/blog_new/' %}
+    <!-- Including header image -->
+    {% include hola10/blog.liquid %}
+  {% else %}
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
@@ -125,10 +129,6 @@
     <!-- Including header image -->
     {% include hola10/hola.liquid %}
   {% endif %}
-  {% if page.permalink == '/blog_new/' %}
-    <!-- Including header image -->
-    {% include hola10/blog.liquid %}
-  {% endif %}
 
   {% if site.enable_progressbar %}
     <!-- Scrolling Progress Bar -->
@@ -138,4 +138,5 @@
       </div>
     </progress>
   {% endif %}
+{% endif %}
 </header>
