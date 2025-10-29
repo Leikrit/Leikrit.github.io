@@ -6,4 +6,3 @@ nav: true
 nav_order: 5
 ---
 
-{% include hola10/blog.liquid %}
