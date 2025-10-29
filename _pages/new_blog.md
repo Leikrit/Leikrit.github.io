@@ -25,12 +25,12 @@ pagination:
   <meta name="author" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="assets/css/css_hola10/base.css">
-  <link rel="stylesheet" href="assets/css/css_hola10/vendor.css">
-  <link rel="stylesheet" href="assets/css/css_hola10/main.css">
+  <link rel="stylesheet" href="{{ 'assets/css/css_hola10/base.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/css_hola10/vendor.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/css_hola10/main.css' | relative_url }}">
 
-  <script src="assets/js/js_hola10/modernizr.js"></script>
-  <script src="assets/js/js_hola10/pace.min.js"></script>
+  <script src="{{ 'assets/js/js_hola10/modernizr.js' | relative_url }}"></script>
+  <script src="{{ 'assets/js/js_hola10/pace.min.js' | relative_url }}"></script>
 </head>
 
 {% if page.pagination.enabled %}
@@ -125,8 +125,8 @@ pagination:
   </div>
 </footer>
 
-<script src="assets/js/js_hola10/jquery-3.2.1.min.js"></script>
-<script src="assets/js/js_hola10/plugins.js"></script>
-<script src="assets/js/js_hola10/main.js"></script>
+<script src="{{ 'assets/js/js_hola10/jquery-3.2.1.min.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/js_hola10/plugins.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/js_hola10/main.js' | relative_url }}"></script>
 </body>
 </html>
