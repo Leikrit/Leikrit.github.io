@@ -92,8 +92,9 @@ pagination:
             {% if tags != "" %}
               &nbsp; &middot; &nbsp;
               {% for tag in post.tags %}
-              <a href="{{ tag | slugify | prepend: '/blog/tag/' | prepend: site.baseurl}}">
-            {% endfor %}
+                <a href="{{ tag | slugify | prepend: '/blog/tag/' | prepend: site.baseurl}}">
+              {% endfor %}
+            {% endif %}
           </div>
         </article>
         {% endfor %}
