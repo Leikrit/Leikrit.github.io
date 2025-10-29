@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new_blog
 permalink: /blog_new/
 title: blog_new
 nav: true
