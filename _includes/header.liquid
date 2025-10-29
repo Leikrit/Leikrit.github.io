@@ -125,6 +125,10 @@
     <!-- Including header image -->
     {% include hola10/hola.liquid %}
   {% endif %}
+  {% if page.permalink == '/blog/' %}
+    <!-- Including header image -->
+    {% include hola10/blog.liquid %}
+  {% endif %}
 
   {% if site.enable_progressbar %}
     <!-- Scrolling Progress Bar -->
