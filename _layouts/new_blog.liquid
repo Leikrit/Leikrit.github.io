@@ -29,11 +29,11 @@
   </div>
   <nav class="header-nav-wrap">
     <ul class="header-nav">
-      <li><a href="https://jinyi.li" title="about">about</a></li>
-      <li class="current"><a href="https://jinyi.li/blog/" title="blog">blog</a></li>
-      <li><a href="https://jinyi.li/publications/" title="publications">publications</a></li>
-      <li><a href="https://jinyi.li/projects/" title="projects">projects</a></li>
-      <li><a href="https://jinyi.li/cv/" title="cv">cv</a></li>
+      <li><a href="{{ '/' | relative_url}}" title="about">about</a></li>
+      <li class="current"><a href="{{ '/blog/' | relative_url}}" title="blog">blog</a></li>
+      <li><a href="{{ '/publications/' | relative_url}}" title="publications">publications</a></li>
+      <li><a href="{{ '/projects/' | relative_url}}" title="projects">projects</a></li>
+      <li><a href="{{ '/cv/' | relative_url}}" title="cv">cv</a></li>
     </ul>
   </nav>
   <a class="header-menu-toggle" href="#0"><span>Menu</span></a>
@@ -51,7 +51,7 @@
         </div>
       </div>
       <h1 class="page-header__title">
-        <a href="https://jinyi.li/ziying/2025-07-17-1314/">The 1314 Anniversary.</a>
+        <a href="{{ '/ziying/2025-07-17-1314/' | relative_url }}">The 1314 Anniversary.</a>
       </h1>
       <p>The story of ours.</p>
     </article>
