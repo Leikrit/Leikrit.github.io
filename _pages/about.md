@@ -71,6 +71,18 @@ intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In h
 
 <br />
 
+
+---
+
+### 🌹 Acknowledgements
+
+Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/page.htm'>Prof. YU</a> who supported me when I firstly started my research. 
+
+<a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof. XU</a> is my supervisor for Bachelor's degree and during Ph.D. 
+
+<br />
+
+
 ---
 
 ### 🔍 Experiences
@@ -170,17 +182,6 @@ intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In h
 
 <br />
 
----
-
-### 🌹 Acknowledgements
-
-Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/page.htm'>Prof. YU</a> who supported me when I firstly started my research. 
-
-<a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof. XU</a> is my supervisor for Bachelor's degree and during Ph.D. 
-
-<br />
-
----
 
 
 
