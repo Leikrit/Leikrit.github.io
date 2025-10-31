@@ -77,6 +77,7 @@ intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In h
 
 <br />
 
+<container>
 <div class="col-sm-9">
   <h4>
     South China University of Technology 
@@ -145,7 +146,7 @@ intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In h
   </p>
 </div>
 <div class="col-sm-3">
-<img align="right" src="https://th.bing.com/th?id=OSK.8b3e69c73dccc0632de7058c13f85e53&w=102&h=102&c=7&o=6&dpr=1.5&pid=SANGAM" width="20%">
+  <img align="right" src="https://th.bing.com/th?id=OSK.8b3e69c73dccc0632de7058c13f85e53&w=102&h=102&c=7&o=6&dpr=1.5&pid=SANGAM" width="100%">
 </div>
 
 <br />
@@ -162,8 +163,10 @@ intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In h
   <p>I gained my bachelor's degree at <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a> in 2025.</p>
 </div>
 <div class="col-sm-3">
-<img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" width="20%">
+    <img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" width="100%">
 </div>
+
+<container>
 
 <br />
 
