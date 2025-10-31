@@ -77,15 +77,21 @@ intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In h
 
 <br />
 
-#### South China University of Technology 
-
-<img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" width="20%">
-
-- 2025.9 - current
-
-**Ph.D.**
-
-I am currently a Ph.D. student at <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>, supervised by <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof Xu</a>.
+<div class="col-sm-9">
+  <h4>
+    South China University of Technology 
+  </h4>
+  <ul>
+    <li>2025.9 - current</li>
+  </ul>
+  <strong>Ph.D.</strong>
+  <p>
+    I am currently a Ph.D. student at <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>, supervised by <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof Xu</a>.
+  </p>
+</div>
+<div class="col-sm-3">
+    <img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" width="100%">
+</div>
 
 <br />
 
