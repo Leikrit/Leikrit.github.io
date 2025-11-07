@@ -103,7 +103,7 @@ Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/pa
   </p>
 </div>
 <div class="col-sm-3">
-    <img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" width="100%">
+    <img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" height="100%">
 </div>
 
 <br />
