@@ -89,101 +89,69 @@ Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/pa
 
 <br />
 
-<container >
-<div class="row">
-<div class="col-sm-9" style="background-color: rgb(193, 203, 215);">
-  <h4>
-    South China University of Technology 
-  </h4>
-  <ul>
-    <li>2025.9 - current</li>
-  </ul>
-  <strong>Ph.D.</strong>
-  <p>
-    I am currently a Ph.D. student at <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>, supervised by <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof Xu</a>.
-  </p>
-</div>
-<div class="col-sm-3">
-  <img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" height="40%">
-</div>
-</div>
+
+
+#### South China University of Technology 
+
+<img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" width="20%">
+
+- 2025.9 - current
+
+**Ph.D.**
+
+I am currently a Ph.D. student at <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>, supervised by <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof Xu</a>.
 
 <br />
 
-<div class="col-sm-9" style="background-color: rgb(193, 203, 215);">
-<h4>
-  Singapore Management University & National University of Singapore & Nanyang Technological University & Agency for Science, Technology and Research (A*Star)
-</h4>
-  <ul>
-    <li>2024.07</li>
-  </ul>
-  <strong>Visiting & Communicating</strong>
-  <p>
-    During the summer 2024, I went to Singapore for a short academic visiting. I stayed at <a href="https://www.smu.edu.sg/">Singapore Management University (SMU)</a>, <a href="https://nus.edu.sg/">National University of Singapore (NUS)</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University (NTU)</a> and <a href="https://www.a-star.edu.sg/">Agency for Science, Technology and Research (A*Star)</a>. The academic communications covered fields including Computer Vision, Natural Language Processing, Augmented Reality, Virtual Reality, 3D Point Cloud, Causal Inference, Video Segmentation, Brain Science, Silence Communication, Imitation Learning, etc. I gave a speech about my personal academic experience at NExT++ Laboratory.
-  </p>
-</div>
-<div class="col-sm-3">
+#### Singapore Management University & National University of Singapore & Nanyang Technological University & Agency for Science, Technology and Research (A*Star)
+
 <img align="middle" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="18%">   <img align="middle" src="https://nus.edu.sg/images/default-source/base/logo.png" width="18%">    <img align="middle" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="18%">    <img align="middle" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" width="18%">    <img align="middle" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="18%">
-</div>
+
+- 2024.07
+
+**Visiting & Communicating**
+
+During the summer 2024, I went to Singapore for a short academic visiting. I stayed at <a href="https://www.smu.edu.sg/">Singapore Management University (SMU)</a>, <a href="https://nus.edu.sg/">National University of Singapore (NUS)</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University (NTU)</a> and <a href="https://www.a-star.edu.sg/">Agency for Science, Technology and Research (A*Star)</a>. The academic communications covered fields including Computer Vision, Natural Language Processing, Augmented Reality, Virtual Reality, 3D Point Cloud, Causal Inference, Video Segmentation, Brain Science, Silence Communication, Imitation Learning, etc. I gave a speech about my personal academic experience at NExT++ Laboratory.
 
 <br />
 
-<div class="col-sm-9" style="background-color: rgb(193, 203, 215);">
-  <h4>
-    Hong Kong University of Science and Technology (Guangzhou)
-  </h4>
-  <ul>
-    <li>2024.2.1 - 2024.6.7</li>
-  </ul>
-  <strong>Internship in Artificial Intellengce Thrust, Information Hub</strong>
-  <p>  
-    I worked as an intern with <a href='https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang'>Assoc. Prof. WANG</a> at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, doing researches on the topic of Large Language Models. We focused on Prompt Compression things and Multi-modal things.
-  </p>
-</div>
-<div class="col-sm-3">
-  <img align="right" src="https://www.hkust-gz.edu.cn/wp-content/themes/hkust-gz-official/images/logo-e-blue-2x.png" width="100%">
-</div>
+#### Hong Kong University of Science and Technology (Guangzhou)
+
+<img align="right" src="https://www.hkust-gz.edu.cn/wp-content/themes/hkust-gz-official/images/logo-e-blue-2x.png" width="20%">
+
+- 2024.2.1 - 2024.6.7
+
+**Internship in Artificial Intellengce Thrust, Information Hub**
+
+I worked as an intern with <a href='https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Hao/haowang'>Assoc. Prof. WANG</a> at <a href='https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/'>The Hong Kong University of Science and Technology (Guangzhou)</a>, doing researches on the topic of Large Language Models. We focused on Prompt Compression things and Multi-modal things.
 
 <br />
 
-<div class="col-sm-9" style="background-color: rgb(193, 203, 215);">
-  <h4>
-    University of Oxford
-  </h4>
-  <ul>
-    <li>2023.7.17 - 2023.8.4</li>
-  </ul>
-  <strong>Artificial Intelligence and Machine Learning: Advanced Applications of Neural Networks and Deep Learning</strong>
-  <strong>Oxford Grade: 83    Letter Grade: A+</strong>
-  <p>  
-  I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great pleasure, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH. I learnt a lot about Artificial Intelligence and Machine Learning. Specifically, I learnt Generative Models including Auto Regression, Auto Encoder, Variation Auto Encoder, Generative Adversarial Network and Diffusion Model; Reinforcement Learning including DQN, Actor and Critic and DDPG methods; Graph Neural Network including GCN. My tutor <a href="https://cemse.kaust.edu.sa/ai/people/person/naeemullah-khan">Prof. Khan</a> spoke very well of me.
-  </p>
-</div>
-<div class="col-sm-3">
-  <img align="right" src="https://th.bing.com/th?id=OSK.8b3e69c73dccc0632de7058c13f85e53&w=102&h=102&c=7&o=6&dpr=1.5&pid=SANGAM" width="100%">
-</div>
+#### University of Oxford
+
+<img align="right" src="https://th.bing.com/th?id=OSK.8b3e69c73dccc0632de7058c13f85e53&w=102&h=102&c=7&o=6&dpr=1.5&pid=SANGAM" width="20%">
+
+- 2023.7.17 - 2023.8.4
+
+**Artificial Intelligence and Machine Learning: Advanced Applications of Neural Networks and Deep Learning**
+
+**Oxford Grade: 83    Letter Grade: A+**
+
+I have visited <a href='https://www.lmh.ox.ac.uk/prospective-students/lmh-summer-programmes'>Lady Margaret's Hall, University of Oxford</a> during the summer 2023 and participated in the <a href='https://www.instagram.com/lmhsummerprogrammes?igsh=MTV0ZWM0NHhzdjZpbw=='>AI programme</a>. With great pleasure, I appeared in the <a href='https://youtu.be/MYwZTulZPLA'>official video</a> posted by LMH. I learnt a lot about Artificial Intelligence and Machine Learning. Specifically, I learnt Generative Models including Auto Regression, Auto Encoder, Variation Auto Encoder, Generative Adversarial Network and Diffusion Model; Reinforcement Learning including DQN, Actor and Critic and DDPG methods; Graph Neural Network including GCN. My tutor <a href="https://cemse.kaust.edu.sa/ai/people/person/naeemullah-khan">Prof. Khan</a> spoke very well of me.
 
 <br />
 
+#### South China University of Technology 
 
-<div class="col-sm-9" style="background-color: rgb(193, 203, 215);">
-  <h4>
-    South China University of Technology 
-  </h4>
-  <ul>
-    <li>2021.9 - 2025.7</li>
-  </ul>
-  <strong>Bachelor's Degree</strong>
-  <p>I gained my bachelor's degree at <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a> in 2025.</p>
-</div>
-<div class="col-sm-3">
-    <img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" width="100%">
-</div>
+<img align="right" src="https://k.sinaimg.cn/n/sinakd20221116s/600/w700h700/20221116/33c3-d6e3dcd0b07afc46267e533c364a7539.jpg/w700d1q75cms.jpg?by=cms_fixed_width" width="20%">
 
-</container>
+- 2021.9 - 2025.7
+
+**Bachelor's Degree**
+
+I gained my bachelor's degree at <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a> in 2025.
 
 <br />
-
 
 
 
