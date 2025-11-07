@@ -89,8 +89,8 @@ Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/pa
 
 <br />
 
-<container>
-<div class="col-sm-9">
+<container >
+<div class="col-sm-9" style="background-color: rgb(193, 203, 215);">
   <h4>
     South China University of Technology 
   </h4>
@@ -108,7 +108,7 @@ Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/pa
 
 <br />
 
-<div class="col-sm-9">
+<div class="col-sm-9" style="background-color: rgb(193, 203, 215);">
 <h4>
   Singapore Management University & National University of Singapore & Nanyang Technological University & Agency for Science, Technology and Research (A*Star)
 </h4>
@@ -126,7 +126,7 @@ Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/pa
 
 <br />
 
-<div class="col-sm-9">
+<div class="col-sm-9" style="background-color: rgb(193, 203, 215);">
   <h4>
     Hong Kong University of Science and Technology (Guangzhou)
   </h4>
@@ -144,7 +144,7 @@ Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/pa
 
 <br />
 
-<div class="col-sm-9">
+<div class="col-sm-9" style="background-color: rgb(193, 203, 215);">
   <h4>
     University of Oxford
   </h4>
@@ -164,7 +164,7 @@ Special thanks to <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328084/pa
 <br />
 
 
-<div class="col-sm-9">
+<div class="col-sm-9" style="background-color: rgb(193, 203, 215);">
   <h4>
     South China University of Technology 
   </h4>
