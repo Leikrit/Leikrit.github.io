@@ -13,11 +13,7 @@
 }
 
 // sets relative font-sizing and alignment (in _sizing)
-<<<<<<< HEAD
-@mixin fa-size ($font-size) {
-=======
 @mixin fa-size($font-size) {
->>>>>>> 73bfa517 (Initial commit)
   font-size: fa-divide($font-size, $fa-size-scale-base) * 1em; // converts step in sizing scale into an em-based value that's relative to the scale's base
   line-height: fa-divide(1, $font-size) * 1em; // sets the line-height of the icon back to that of it's parent
   vertical-align: (fa-divide(6, $font-size) - fa-divide(3, 8)) * 1em; // vertically centers the icon taking into account the surrounding text's descender
@@ -55,11 +51,7 @@
   @extend .fa-solid;
 
   &::before {
-<<<<<<< HEAD
-    content: unquote("\"#{ $fa-var }\"");
-=======
     content: unquote('"#{ $fa-var }"');
->>>>>>> 73bfa517 (Initial commit)
   }
 }
 
@@ -68,11 +60,7 @@
   @extend .fa-regular;
 
   &::before {
-<<<<<<< HEAD
-    content: unquote("\"#{ $fa-var }\"");
-=======
     content: unquote('"#{ $fa-var }"');
->>>>>>> 73bfa517 (Initial commit)
   }
 }
 
@@ -81,13 +69,6 @@
   @extend .fa-brands;
 
   &::before {
-<<<<<<< HEAD
-    content: unquote("\"#{ $fa-var }\"");
-  }
-}
-
-=======
     content: unquote('"#{ $fa-var }"');
   }
 }
->>>>>>> 73bfa517 (Initial commit)

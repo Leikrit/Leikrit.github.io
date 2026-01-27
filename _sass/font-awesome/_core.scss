@@ -2,11 +2,7 @@
 // -------------------------
 
 .#{$fa-css-prefix} {
-<<<<<<< HEAD
-  font-family: var(--#{$fa-css-prefix}-style-family, '#{$fa-style-family}');
-=======
   font-family: var(--#{$fa-css-prefix}-style-family, "#{$fa-style-family}");
->>>>>>> 73bfa517 (Initial commit)
   font-weight: var(--#{$fa-css-prefix}-style, #{$fa-style});
 }
 
@@ -33,25 +29,14 @@
 .#{$fa-css-prefix}-solid,
 .far,
 .#{$fa-css-prefix}-regular {
-<<<<<<< HEAD
-  font-family: 'Font Awesome 6 Free';
-=======
   font-family: "Font Awesome 6 Free";
->>>>>>> 73bfa517 (Initial commit)
 }
 
 .fab,
 .#{$fa-css-prefix}-brands {
-<<<<<<< HEAD
-  font-family: 'Font Awesome 6 Brands';
-}
-
-
-=======
   font-family: "Font Awesome 6 Brands";
 }
 
->>>>>>> 73bfa517 (Initial commit)
 %fa-icon {
   @include fa-icon;
 }
