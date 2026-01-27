@@ -15,6 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 social: true # includes social icons at the bottom of the page
+<<<<<<< HEAD
+=======
+intro: Hi there! 👋 I'm Jinyi (Jerry) LI, welcome to my personal website. In here, you can discover something about me.<br /><br />I am currently a Ph.D. student at 🏫 <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Technology</a>, <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a>, supervised by <a href='http://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm'>Prof. Xuemiao XU</a>. I obtained my B. Eng. degree at <a href='http://www2.scut.edu.cn/cs/'>School of Computer Science and Technology</a>, <a href='https://www.scut.edu.cn/new/'>South China University of Technology</a> in 2025.<br /><br />My current research projects include Meta Learning related works. My interests include Embodied Intelligence, Vision-Language Navigation, Multi-Modaling, Large Language Models, and Meta Learning.<br /><br />My latest paper is available on OpenReview. Check out <a href='https://openreview.net/forum?id=lbFVTPv4s6'>An Empirical Study on Prompt Compression for Large Language Models</a>.<br /><br /><br />
+
+>>>>>>> f059005e (Update about.md)
 ---
 
 ---
