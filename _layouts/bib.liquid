@@ -136,6 +136,16 @@
           {{- more_authors_hide -}}
         </span>
       {% endif %}
+      {% if entry.annotation %}
+        <i
+          class="fa-solid fa-circle-info ml-1"
+          data-toggle="popover"
+          data-placement="top"
+          data-html="true"
+          data-content="{{ entry.annotation | escape }}"
+        >
+        </i>
+      {% endif %}
     </div>
 
     <!-- Journal/Book title and date -->
