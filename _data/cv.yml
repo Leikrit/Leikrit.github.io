@@ -1,97 +1,80 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Jinyi LI
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D.
+      institution: South China University of Technology, China
+      year: 2029
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - School of Computer Science and Engineering
+    - title: B.S.
+      institution: South China University of Technology, China
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
+        - School of Computer Science and Engineering
 
-- title: Experience
+- title: Academic Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Short Academic Program
+      institution: Lady Margaret Hall, University of Oxford
+      year: 2023
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Remote Intern
+      institution: Information Hub, The Hong Kong University of Science and Technology
+      year: 2024
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Focused on prompt compression topics and social behaviours of multi-agent board game.
+    
+    - title: Academic Communication
+      institution: Singapore Management University, National University of Singapore and Nanyang Technological University
+      year: 2024
+      description:
+        - Short academic communcation in three university on site in Singapore.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression">PCToolkit</a>
+      year: 2024
+      description: A unified plug-and-play toolkit for prompt compression of large language models.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - The First Prize Scholarship
+        - Excellent League Member
+    - year: 2023
       items:
-        - Max Planck Medal
+        - The Dongfeng Enterprise Scholarship
+        - Merit Student
+        - Excellent League Member
+        - Excellent Student Cadre 
+        - MCM/ICM Honorable Mention
+        - APMCM Second Prize
+    - year: 2022
+      items:
+        - The Second Prize Scholarship
+        - Merit Student
+        - Excellent League Member
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Embodied Intelligence
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Vision and Language Navigation.
+    - title: Meta Learning
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Cross-domain learning.
+        - Incremental learning.
+    - title: Natural Language Processing
+      items:
+        - Large Language Model
