@@ -33,6 +33,22 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-"yong":
-  - firstname: ["Yong Li", "Yong"]
+"li":
+  - firstname: ["Y.", "Yong"]
     url: https://pressureless.github.io/
+
+"xu":
+  - firstname: ["X.", "Xuemiao"]
+    url: https://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm
+
+"he":
+  - firstname: ["S.", "Shengfeng"]
+    url: https://shengfenghe.github.io/
+
+"liu":
+  - firstname: ["B.", "Bangzhen"]
+    url: https://bang2hen1iu.github.io/
+
+"wang":
+  - firstname: ["H.", "Hao"]
+    url: https://wanghao.tech/
