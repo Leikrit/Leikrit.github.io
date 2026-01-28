@@ -97,8 +97,8 @@
               {{ author.last -}}
             </a>
           {%- else -%}
-            {{ author.first }}
-            {{ author.last }}
+            {{- author.first }}
+            {{ author.last -}}
           {% endif %}
         {%- endif -%}
       {% endfor %}
@@ -165,6 +165,9 @@
     {% endif %}
     {% if entry.year %}
       {% capture entryyear %}{{ " " }}{{entry.year}}{% endcapture %}
+    {% endif %}
+    {% if entry.additional_info %}
+      {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
