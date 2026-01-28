@@ -1,4 +1,4 @@
-<a href="https://jbo-wang.github.io/">**Jingbo WANG**</a>
+<h1><a href="https://jbo-wang.github.io/">**Jingbo WANG**</a></h1>
 
 <em> "Aye captain my captain." </em>
 
