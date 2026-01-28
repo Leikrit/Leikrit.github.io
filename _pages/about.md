@@ -106,7 +106,7 @@ I am currently a Ph.D. student at <a href='https://www.scut.edu.cn/new/'>South C
 
 #### Singapore Management University & National University of Singapore & Nanyang Technological University & Agency for Science, Technology and Research (A*Star)
 
-<img align="middle" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="18%">   <img align="middle" src="https://nus.edu.sg/images/default-source/base/logo.png" width="18%">    <img align="middle" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="18%">    <img align="middle" src="NTU.png" width="18%">    <img align="middle" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="18%">
+<img align="middle" src="https://www.smu.edu.sg/themes/smubase_5g/assets/site-headers/logo-smu-d.svg" width="18%">   <img align="middle" src="https://nus.edu.sg/images/default-source/base/logo.png" width="18%">    <img align="middle" src="https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/b/3913/files/formidable/19/NExT-Logo-1alapw8.png" width="18%">    <img align="middle" src="https://www.lacstudio.com/files/material/20230310/1678428980_f703738da9773912b31b823645509118367adab44418.png" width="18%">    <img align="middle" src="https://www.a-star.edu.sg/images/librariesprovider1/default-album/00.-astar-hq-corporate-website.png" width="18%">
 
 - 2024.07
 
@@ -118,7 +118,7 @@ During the summer 2024, I went to Singapore for a short academic visiting. I sta
 
 #### Hong Kong University of Science and Technology (Guangzhou)
 
-<img align="right" src="HKUST.jpg" width="20%">
+<img align="right" src="https://tse3.mm.bing.net/th/id/OIP.QQvKSdc-idFXsnRNpz1vzgHaHa?cb=defcache2defcache=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="20%">
 
 - 2024.2.1 - 2024.6.7
 
