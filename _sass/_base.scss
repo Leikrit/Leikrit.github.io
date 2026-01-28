@@ -17,8 +17,21 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: "Newsreader", sans-serif, "DM Serif Text", Roboto;
+  font-family: "Radley", "Newsreader", sans-serif, "DM Serif Text", Roboto;
 }
+
+.radley-regular {
+  font-family: "Radley", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.radley-regular-italic {
+  font-family: "Radley", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
 
 hr {
   border-top: 1px solid var(--global-divider-color);
