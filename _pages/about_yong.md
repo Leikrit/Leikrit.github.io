@@ -1,3 +1,3 @@
-<h1><a href="https://pressureless.github.io/">**Yong LI**</a></h1>
+<h1><a href="https://pressureless.github.io/"><strong>Yong LI</strong></a></h1>
 
 Yong Li is a postdoctoral researcher at South China University of Technology. While working on his PhD, he was advised by Yotam Gingold at George Mason University. In May 2024, he was awarded “Distinguished Academic Achievement” from the Department of Computer Science at GMU. Before pursuing his PhD, he was a senior software developer at Baidu. He received his bachelor and master degree from Sun Yat-sen University in June 2013 and 2015 respectively. His research interests include geometry processing, human-computer interaction, deep learning and programming languages. 
