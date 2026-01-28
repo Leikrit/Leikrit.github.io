@@ -38,13 +38,20 @@ profiles:
       <p><font face="Times New Roman, sans-serif">Collaborator & Classmate of Jinyi Li since Septemper, 2018.</font></p>
       <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
   - align: left
+    image: yao.jpg
+    content: about_yao.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><font face="Times New Roman, sans-serif">Coauthor & Teammate & Classmate of Jinyi Li since Septemper, 2021.</font></p>
+      <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
+  - align: right
     image: jb_wang.jpg
     content: about_jingbo.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><font face="Times New Roman, sans-serif">Collaborator & Teammate (Captain) of Jinyi Li since Septemper, 2023.</font></p>
       <p><font face="Times New Roman, sans-serif">Guangzhou, China</font></p>
-  - align: right
+  - align: left
     image: brick.jpg
     content: about_brick.md
     image_circular: false # crops the image to make it circular
